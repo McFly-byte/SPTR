@@ -1,0 +1,8030 @@
+online payment
+space utilization
+similarity recognition
+wide application field
+low rank constraint
+simple substance silicon
+air storage bag
+voltage stabilizing diode
+rs485 bus
+identifying application key
+national defense
+k nearest neighbors
+probably approximately correct
+boostrap aggregating
+visual geometry group
+electric signal
+gaussian blur
+shape curves
+broadcast video
+voice print recognition
+bending strength
+regression calculation
+local texture
+life track
+rotating disk
+encoding algorithm
+emotion recognition
+storage buffer
+automatic adjusting
+spray head
+weighting coefficient
+rgb color
+practical teaching
+motion recognition
+natural walking
+original angle
+mounting position
+multimedia devices
+cosmetic surgery
+reception counter
+multiple classes
+household robots
+correlating events
+sucking disk
+grocery stores
+electric power plant
+authentication succeeded
+flesh color
+surrounding rock
+protective measures
+standard digital signature
+skin color pixel
+local ternary pattern
+dialect recognition
+database including
+track combination
+basal body temperature
+non-contact type printing
+outputs generating vibration
+front scene
+air pressure change
+chassis height
+partial occlusion
+functional relation
+matching algorithm
+susan corner detection
+muscle action emotion
+delaunay triangular mesh
+skill improvement
+adjusting sampling
+membership probability
+horizontal lines
+thermal map
+position tracking
+unsupervised clustering algorithm
+shutter speed
+tof camera
+draw rope
+polynomial curve fitting
+body shape
+email client
+symmetrical supporting strips
+cover body
+skin color detecting
+wide angle lens
+interactive behavior
+computational complexity
+tone generator
+cancellation signal
+risk tolerance level
+edge extracting
+variable magnification
+training images
+geometric approximation
+dictionary database
+property management personnel
+integrated management platform
+voice broadcast
+waterproof cloth
+electromagnetic radiation amounts
+environmental determination
+pixel values
+measurement vector
+pedestrian recognition
+gabor algorithm
+screw sleeve
+poor ability
+sun dial
+mobile body
+operating personnel
+audit log
+tv picture
+improved genetic algorithm
+waste liquid tank
+fuzzy membership degree
+rapid identifying
+clustering center
+electric bell
+vector projection
+linear discriminant
+head shot
+canny edge detection
+horizontal view angle
+wavelet packet coefficient
+detailed description
+signal connection
+storage card
+nearest neighbor classifier
+magnetic head slider
+difference calculation
+body skeleton
+original patent
+sales center
+finally determines
+threshold setting
+illumination characteristics
+predetermined level
+vertical edge
+infrared transmitter
+preventing cross infection
+focal plane
+fan blade
+acceptable level
+photographic conditions
+rfid chip
+scanning electron microscope
+multiple angles
+illumination approaches correspondence
+standard threshold
+apartment house
+deflection angle
+lower eyelids
+tv camera
+three-dimensional dense key
+facial video
+bit extraction
+estimation algorithm
+edge profile
+real condition
+spatial variation
+local linear embedding
+deep belief
+bimodal emotion recognition
+position calculation
+standard database
+facial action units
+infrared transmitting tube
+upper limit
+identifies weather
+performing evacuation guidance
+water inlet pipe
+privacy protection
+geographic position
+crime prevention
+air supply
+binary secret key
+connection relationship
+blood pressure measuring
+collaborative filtering algorithm
+sheet metal piece
+skin texture detection
+nerve cell algorithm
+reasoning ability
+interactive feedback
+matching threshold
+signal receiver
+eigen vector
+thermal imaging instrument
+linear regression
+rotation matrix
+floating population
+screen displaying
+rs232 interface
+viterbi algorithm
+electronic health record
+warning lamp
+visually impaired users
+training database
+abnormal signal
+weight matrix
+difference values
+skin color detection
+abnormal picture
+movement tracking
+false detection
+predictable discriminant dictionary
+plastic surgery
+measurement matrix
+suction pipe
+lower jaw
+prewitt edge detection
+biometrics authentication
+monetary values
+hollow fiber tube
+moving picture
+recursive neural
+depth values
+position vector
+softmax classifier
+horizontal length
+micro water pump
+mobile robot
+relay node
+realize automatic updating
+lift car
+oscillation detection
+amplification coefficient
+body outline
+skin texture
+certificate verification
+movable cover
+iterative regression
+service establishment
+expression type
+blood oxygen saturation
+attract customers
+hand gesture detection
+expression fused
+music content
+multiple main
+packet video
+local neighborhood main
+adjacency matrix
+air flow
+ground truth
+vertical center
+redundancy calculation
+predetermined angle
+counting times
+flash memory card
+body images
+type mark
+foot pad
+sparse matrix decomposition
+management platforms
+traffic management department
+service institution
+real field
+dense disparity map
+local key
+ordinary users
+motion vector
+multiple color spaces
+road scene
+track mark
+body figure
+protective tube
+gaussian probability density
+eye mirror
+public institution
+spherical shell
+trusted application
+facial plastic surgery
+interactive interface
+hydraulic oil cylinder
+sobel operator
+test content
+public office
+amusement facility
+pixel grey
+detecting units
+brain wave detection
+double recognition
+internet service provider
+mobile electronic devices
+secondary screen
+payment service
+environmental influence
+vibration signal
+identity confirmation
+low defect
+personal identity
+automatic rotation
+collecting devices
+online transaction
+specular reflection
+authentication token
+convolution kernels
+audible signal
+plane map
+linear fusion
+hilbert conversion
+glass screen
+character type
+relative change amount
+motion detection
+personnel change
+sign language recognition
+haar wavelet decomposition
+boundary size
+lip movement characteristics
+optical remote sensing
+thermal imaging camera
+auto white balance
+conveyor belt
+contraction coefficient
+management web
+adaptive boosting algorithm
+lung tumor
+led signal lamp
+characteristics detection
+configuring weight coefficient
+color temperature
+multiple sensors
+multiple pixels
+payment card
+horizontal axis
+convolutional neural networks
+shopping behavior
+differential space
+advanced encryption standard
+collection program
+multiple phrases
+fixing lug
+supporting foot
+ycgcr color space
+strong applicability
+majority determination
+gas collecting cover
+outline shape
+strontium dioxide
+lbp operator
+palm vein
+imaging subject
+hidden markov algorithm
+diameter length
+low quality images
+eyeglass lens
+rotation degree
+picture collection
+divided wrinkle concentrated
+teaching influence degree
+detection convolutional neural
+gradient map
+convergence condition
+scene type
+gabor filter coefficients
+test images
+predetermined reference color
+detecting persons position
+bionic eyes
+kmean clustering algorithm
+transverse plane
+steering lamp sensor
+reference images
+similarity calculation
+switch signal
+ventricular fibrillation
+express delivery management
+banking business
+robust estimation
+frequently occurring
+alignment angle
+semantic segmentation
+motion capture
+color balance
+psychological health
+liquid storage tank
+application interface
+patient identifiers
+healthcare management
+packet radio service
+multi-functional biological authentication
+coefficient matrix reconstruction
+effectively increase
+determining predetermined sheets
+movement path
+synchronous belt
+fourier algorithm
+connection units
+projection matrices
+relative height
+training step
+optical fiber interface
+storage library
+gas pipe
+local projection algorithm
+health management platform
+red indicating lamp
+video surveillance field
+providing hub services
+guide sleeve
+bilateral filtering algorithm
+shooting condition
+multiple decision trees
+speed sensor
+continuous video
+shooting angle
+dimensionality reduction
+registration database
+feeding batch
+alpha angle
+vector comprises performing
+social connection
+arm platform
+convergence node
+eye color
+enterprise personnel fetched
+micro hard disk
+moving path
+coin donation rule
+polynomial fitting algorithm
+position identifying
+thin film transistor
+pci bus
+removing weight
+edge calculation
+diffractive optical
+automatic age estimation
+multiple viewers
+cosine similarity
+voltage conversion
+position determination
+miniature camera
+multiple readers
+single view
+space formed
+abnormal sound
+bound book
+locating hole
+remain locked
+mathematical calculations
+voice signal
+service quality
+indium oxide film
+hungarian matching algorithm
+package type
+chat bot
+printed matter
+digital coding
+sliding window
+voltage converter
+infrared illumination
+texture map
+application scene
+digital photographic
+median sagittal plane
+updating program
+thermal infrared
+universal asynchronous receiver
+cluster centers
+main content
+longitudinal coordinates
+vibration sensor
+bayesian classification algorithm
+multiple values
+outline form
+main motor
+skin color
+multimodal emotion recognition
+permanent adhesive
+active carbon fibre
+body organs
+lip movement recognition
+median filtering algorithm
+finger vein authentication
+true values
+mounting lug
+groove body
+position reconstruction
+continuous shooting
+low quality
+matching material tray
+canonical correlation
+flow density
+infrared radiation detection
+local circle pattern
+optimal algorithm
+photoelectric pulse sensor
+motion tracking
+thermal diagram
+pixel attributes describing
+picture depth
+structural similarity
+standard grey scale
+service recommendation
+pixel mask
+multiple views
+effectively avoids
+expression change
+loading conditions
+supplies power
+water outlet pipes
+loss weight
+classroom teaching quality
+fixed bar
+similarity characteristics
+smart tv
+memory store
+dictionary column
+forgery prevention
+closed loop management
+condition setting
+sanitation worker
+total difference
+test question database
+steel protective
+water suction pump
+pyroelectric infrared detector
+advertisement presentation
+limiting hole
+statistical character
+matrix form
+telecommunications industry
+sucking disc
+finger vein recognition
+retrograde motion
+shape vector
+track editing
+recognition tracking
+moving track
+color film substrate
+horizontal viewing angle
+automatic recognition
+thermal sensor
+upper body
+5-inch thin-film transistor
+community-oriented multi-target tracking
+rest pattern
+threshold level
+movement track
+obtaining original video
+household registration
+decimal conversion
+color change
+equal-specific amplification reduction
+corrected 2d picture
+age estimation
+recognition efficiency
+water tank
+dialogue manager
+ball slide
+pass filter
+main organs
+iterative training
+led street lamp
+abnormal emotion
+saliency map
+capture setting
+centroid iteration
+facial emotion
+red indicator lamp
+ir lamp
+wide application scene
+position detection
+shock absorption protection
+facial pattern
+teacher gesture recognition
+gradient histogram
+diffusion speed
+thermal imaging
+test zone
+field measuring
+correspondence relationship
+common space
+facial detection
+rotating cavity
+camera screen
+embedded hardware
+plan view
+numerical probability
+photographic subject
+skeleton key
+conditional expression
+pixel grey scale
+basic probability assignment
+sense organs
+multi-function peripheral
+movement instruction
+posture correction procedures
+sleeve ring
+continuous convolution layers
+main branch
+personnel storage database
+agent architecture
+buffer space
+weighted calculation
+double camera
+guide groove
+weighting calculation
+personal verification
+detecting queuing
+original picture
+attention degree
+rotate left
+texture encoding
+affine conversion
+fixed standard
+adaptive quantization
+screw hole
+intelligently identifying
+moving speed
+sight pitch angle
+recognition processes
+continuous movement
+skin temperature sensor
+motion vectors
+judging rule
+cloud service platform
+actual values
+grey scale
+rich content
+screw coupling
+determining step
+collection lens
+character space
+spectrum remote sensing
+testing personnel
+partial viewing
+switchably connect
+cascade classifier
+instruction form
+patient condition
+initiation event
+voice command recognition
+training classifier
+video management platform
+linear classifier
+action behavior
+position correction
+marking probability
+nonlinear conversion
+rapidly increased
+talking head
+switch button
+naive bayes classifiers
+dynamically updating
+reference horizontal plane
+infrared scenes
+measured sound pressure
+axis determination
+camera matrix
+blank paper
+online warning
+thermal infrared imager
+picture collecting
+video capturing
+graphical pattern
+sample sheet
+hand hygiene compliance
+shopping list
+posture recognition
+skin color clustering
+surrounding brightness
+pixel brightness
+screw thread ring
+movement pattern
+adjusting weight
+low brightness
+defect type
+optional field
+signal sensing
+in2 pin pipe
+environmental awareness
+pre-queuing queue exists
+estimated position
+detecting naked eye
+changing laws
+bandwidth requirement
+structural characteristics
+large-scale bill stamping
+position type
+hydraulic cylinder ii
+hsv color histogram
+intellectual property rights
+ic chip
+aluminium alloy material
+preventing leakage
+software development
+autism spectrum disorder
+arm bending angle
+walking posture
+rotating motor
+emotion vector
+load cell
+auxiliary tool
+black eye
+local change
+satisfaction degree
+storage cloud
+electric tank storage
+application chip expanding
+photo printer
+dynamically updated
+position loss
+power consumption
+issued warning signal
+static images
+storage amount
+multiple creation
+horizontal width
+post office
+reliability calculation
+stripe pattern
+facial landmark
+contour depth
+gaussian kernel
+coal mine enterprise
+projection length
+gray scale gradient
+police car
+nonlinear optimization algorithm
+flip flop
+gray level images
+finely tuned
+satisfy equal conditions
+voice biometric program
+judge danger level
+raw images
+infrared ray
+measuring effectiveness
+solution provided
+mapping relation solve
+lower body
+infrared projector
+convolution operator
+gray level histogram
+student dormitory management
+software algorithm
+action track
+continuously monitored
+people recognition
+car call button
+texture components
+shopping malls
+white list
+enhancement operator
+pan tilt motor
+standard hairstyle images
+town center
+main database
+simulated annealing algorithm
+trajectory tracking
+relative movement
+alignment calibration
+wave infrared
+electronic map
+similarity degree
+locality preserving projections
+row vector
+heartbeat signal
+identifying individuals
+color inkjet printer
+shooting event
+double linear interpolation
+electronic equipments
+body temperature measurement
+included angle cosine
+pickup units
+knowledge graph
+threshold values
+preset condition
+vector field
+involuntary eye movement
+reflecting body
+reference lines
+straight slot
+facial profile
+preferential treatment
+bottom texture
+infrared ccd camera
+support tube
+adjusting size
+cloud computing center
+electromagnetic relay
+change detection
+automatic authentication
+view field
+social software
+boundary sample pair
+gray level
+geometric solid
+radiating fin
+electronic paper
+facial components
+fisher linear discriminant
+tv screen
+lower lip
+audio player
+hsv color space
+scattering matrix
+electronic transactions
+flash memory
+pixel position
+shares electric charges
+sub-pixel interpolation
+rental housing management
+vocal print
+pixel clock
+elastic jacking movement
+event triggering
+voice endpoint detection
+regular intervals
+event recorder
+multiple types
+square shape
+measurement study
+automatic temperature measurement
+rubbish classification
+classification standard
+posture language
+protective strip
+reversing gear
+translation vector
+improving reliability
+daily life activities
+automatic dust removal
+head form
+ultrasonic ranging sensor
+including gray normalization
+age recognition
+led lamp strip
+acquired ye-opening degree
+covariance matrix adopts
+determination units
+ccd camera
+incremental loss
+test subject provided
+biological vital signs
+3d reconstruction
+capture angle
+sparse low rank
+grid cell
+expectation values
+incremental training
+weighting algorithm
+classifier combination
+statistical correlation
+correction algorithm
+establishing identity
+windshield glass
+water mark
+low power
+intended purpose
+posture correction
+identity authenticating
+gaze tracking
+online shopping mall
+iterative algorithm
+combined images
+facial animation
+grey list
+recognition classification
+asset management
+main conveyor belt
+tracking algorithms
+iterative optimization
+digital picture
+position sensor
+orthogonal array
+camera registration
+extraction radius
+ultrasound wave
+relative angle
+verification threshold
+focusing lens
+wearable extended reality
+elastic sheet
+eye movements
+relay nodes
+gradient descent algorithm
+reflection condition
+upper edge
+personal authentication
+contour characteristics
+sparse matrix
+qualification certificate
+extracted hadamard coefficient
+dimensional reconstruction
+threaded pipe
+road transportation engineering
+identifying identity
+color space
+verification action
+laplacian pyramid
+graph matching
+local optimal solution
+main path
+wavelength ranges
+fast fourier
+noise suppression
+reference color
+water spray
+gas composition
+cylindrical gear
+multiple locations
+kalman filtering
+wide angle
+fixed size
+matching condition
+registration pattern
+adjusting bolt
+outbound personnel
+shopping mall
+center service platform
+convergence test
+electronic photo album
+predetermined acceptance criterion
+essential character
+color difference signal
+cast iron pipe
+connection cable
+fine particle size
+special administrator
+vertical length
+neuron mos transistors
+service organization
+dangerous action
+national student database
+robot platform
+gradation conversion
+fault detection
+palm print
+providing reliable
+application software
+sliding window algorithm
+horizontal difference
+optical adhesive
+photosensitive resistor
+computing capability
+numerical score
+probability algorithm
+narrowband interference filters
+track finding
+colouring matter
+laser receiver
+toughened glass
+effective position
+pair-wise conditional distributions
+performing ace detection
+reliability determination
+photocatalyst air purifier
+locating eyes
+unlocking condition
+color digital
+social networking services
+sensitive wavelength
+memory management
+deformation components
+supporting leg
+lower eyelid
+circumscribed rectangle
+reasonable position
+2d projection
+edge computing
+depth convolution
+remote desktop software
+low utilization
+locking piece
+protective shell
+skin colour detection
+color components
+bearing seat
+material alterations
+fingerprint verification
+horizontal scanning
+indicating lamp
+main bevel gear
+confidence score
+mapping relation
+enterprise organization
+inkjet printer
+police patrol car
+photo album
+bilinear interpolation algorithm
+horizontal plane
+binary values
+screw thread hole
+predetermined size
+infrared thermometer
+facial skin
+finger vein
+historical training
+yaw rotation
+moving body
+infrared scene
+basic vector
+eye socket
+managing personnel
+picture recognition
+wearing glasses
+lifting seat
+similarity values
+position coding
+glue water
+pulse width modulators
+gray scale difference
+euler angle
+precision marketing
+infrared temperature measurement
+power button opposite
+abnormal event detection
+character identifier
+micro lens array
+graph database
+installation position
+sensor setting
+rfid electronic tag
+telecommunication industry
+texture enhancement
+binocular camera
+temperature measurement sensor
+tag reader
+detection window
+judgment threshold
+users experience
+authentication failure
+police officers
+password management
+clamping hole
+guidance plane
+service node
+adjustable color temperature
+lower boundary
+club head
+measuring body temperature
+abnormal condition
+rotation reference angles
+residual background
+recognition mark
+sample division
+real identity
+connection relation
+video collector
+rotary column
+local hard disk
+inverse kinematics solution
+universal asynchronous serial
+glass cover
+student body
+clock chip
+kernel spaces
+locking bracket
+damage caused
+geometric deformation
+coal gangue
+multimedia management
+blend shape
+infrared temperature detector
+coefficient alpha
+multiple scales
+tld tracking algorithm
+loan applicant
+liquefied natural gas
+figure recognition
+binding mac address
+gravity sensor
+front screen
+null space ahead
+skeleton muscle
+weighted voting algorithm
+public transportation
+national power grid
+facial skin aging
+spot color
+grid pattern
+total scatter matrix
+smart transportation
+test subject
+optical correction
+detection units
+lamina cribrosa
+shared memory
+copper foil
+protective film comprises
+business personnel
+sports event
+screen plane
+prescribed limits
+position locating
+sales staff
+database indexing
+foreign substance
+camera tube
+body type
+electronic watermark
+ball head seat
+natural gas supply
+supporting arm
+projection vector
+administrative procedures
+cumulative score
+rotation motor
+acoustic wave signal
+sports participant
+character string
+extensible markup language
+transaction record
+video recommendation
+test piece
+software running
+electronic skin
+air outlet
+plant disease resistance
+biomedical instrumentation
+moving velocity
+local derivative pattern
+cotton quilt
+ica algorithm
+abnormal warning
+guide nut
+body language
+relative characteristics
+police command center
+storage space
+automatic calibration
+adjusting components
+support leg
+upper housing
+judgment rules
+tilted angle
+video playing
+decision support platform
+body temperature
+expression regulation
+autocorrelation coefficient
+receptive field
+teacher education management
+gaussian white noise
+laser sensor
+geometric relations
+depth classification
+periodic variation
+confusingly encoded
+touch switch
+wavelet detail coefficient
+identity token
+pulse wave signal
+supporting body
+natural languages
+action prompt
+service cloud platform
+accessing database
+fuel dispenser
+relationship type
+butt joint
+service key
+incrementally updating
+business application software
+infrared ray band
+tamper switch
+ant colony algorithm
+threshold determination
+lubricating oil pipe
+geographical position
+unknown sample
+real age
+absolute temperature scale
+health clinics
+prediction score
+tracking algorithm
+overlapping degree
+scene change detection
+local pattern
+density clustering algorithm
+uniformly distributed
+recognition field
+scaling matrix
+sentence level
+overcomplete dictionary
+total reflection mirror
+lock-off instruction
+traffic police department
+and/or predetermined intervals
+staggered position
+driven bevel gear
+movable hard disk
+historical consumption
+hot air blower
+adjustable angle
+heat graph
+test speed
+quality standard
+seat belt
+forward propagation
+common users
+binary sort tree
+nose length
+air pump
+flow detection
+background database
+limiting rings
+hash algorithm
+multiple key
+hardware components
+thin film transistors
+body movements
+switch instruction
+threaded hole
+adaboost cascade classifier
+predetermined temperature threshold
+exit button
+main interface
+dispersion degree
+quality comparison
+multiplicative update rule
+rotationally invariant
+infrared thermal imager
+biological characters
+speed reducing motor
+remote management platform
+optical fiber
+wedding reception
+correspondence degree
+gas flow sensor
+cosine loss
+adjusting tank
+recognition confidence
+management personnel
+signal strength
+pin grid array
+printing picture
+hinge column
+emergency situation
+skin color segmentation
+color separation
+transcranial magnetic stimulation
+integrated digital
+similarity measure
+mobile computing
+reinforcing steel bar
+postage stamp
+entry personnel
+behavioral disorders
+international mobile
+signal tower
+test picture
+recognition scene
+association memory
+supplier list
+application program
+key pair
+online education platform
+weight coefficient
+subcutaneous blood vessel
+sliding slot
+scale detection
+eye movement trajectory
+cathode ray tube
+focal position
+character segmentation
+hold personal articles
+eye movement tracking
+black background
+2d plane
+lower limit
+detection processes
+gray scale
+luminance transient improvement
+address book
+iteration calculation
+micro camera
+quantitative detection
+auxiliary detection
+online teaching
+detection precision
+camera calibration
+dimensional space
+loss calculation
+calibration camera
+mercury mirror
+suppression algorithm
+brightness enhancement
+weak classifiers
+regression estimation
+infrared reflective film
+pca algorithm
+universal camera
+flat bottom
+partially occluded
+position determining
+pre-established convolutional neural
+audio segment
+lamp tube
+guide column
+software development kit
+position coordinates
+matching calculation
+shape interpolation
+cold degree
+magnetic adsorption
+characteristics extraction
+mac address
+conversation content
+multi dimensional space
+low rank
+wind guide cover
+teaching field
+mapping matrix
+automatic dust removing
+performing real-time switching
+accounting record
+air conditioner
+bp neural
+rotary motor
+double convex lens
+laser transmitter
+pca treatment
+weather conditions
+predetermined algorithm
+opposite angles
+quadratic programming
+clustering centers
+shielding degree
+multimedia sensor node
+linked list
+gabor filter
+single camera
+extracting characteristics
+power spectral density
+voice authentication
+service provided
+coal conveyor belt
+directly extracted
+speech emotion recognition
+upper lid
+jpeg encoding
+spanning tree
+backward propagation
+classification program
+emergency evacuation passage
+automatic coding
+hydraulic cylinder
+displays iris measurement
+binding processes
+air intake pipe
+matching service
+warning instruction
+character strings
+space center codebook
+infrared pyroelectric sensor
+risk level
+voice sample
+heat absorbing material
+triangular patch
+support vector regression
+positioning detection
+strong classifier
+adjusting sleeve
+mosquito killing lamp
+motion amplitude
+recognition test
+particle swarm algorithm
+storage bin
+sleep disorder
+comparison algorithm
+multiple bone
+start moving
+digital camcorder
+interactive authentication
+position conversion
+cross infection
+green tea storage
+noise vector
+management office
+offline store
+nearest neighbor algorithm
+educational content
+magnetic resonance imaging
+fixed threshold
+coarse positioning
+behavior characteristics
+distinguishing characteristics
+joint probability
+vector comparison
+paying attention
+serial interface
+plasma dry etching
+metal net
+preset recognition rule
+athletic event
+notification engine transmits
+sliding seat
+arrow key
+fixed beam
+degree threshold
+mounting holes
+classification characteristics
+raising temperature
+picture test
+gray values
+periodical calibration
+low pass filter
+texture mapping
+configuration database
+yz plane
+screen luminance
+rgb color space
+reset spring
+datum mark
+fourier spectrum
+form training
+logistics warehouse
+cache space
+blood perfusion
+liquid level sensor
+low power consumption
+branch endpoint connection
+applied meaning
+side-view imaging camera
+baseband demodulation
+tightness degree
+edge detection
+supporting legs
+correct steps
+openable upper cover
+matrix decomposition algorithm
+photographed infrared
+lung cancer
+cloud management platform
+vein blood vessel
+writing instrument
+2d gabor filter
+stereo matching
+optimization field
+screw thread connection
+single threshold
+optical fingerprint
+anisotropic diffusion filtering
+curve fitting
+appearance characteristics
+surveillance video
+remote meter reading
+pre-stored comparing vector
+software program implemented
+dining chair
+fisher judgment standard
+preset quality requirement
+sparse expression tolerable
+preset intercepting rule
+background noise
+cold drink
+type statisticians
+rear view mirror
+issuing vocal commands
+cleaning cotton cushion
+voice chip
+inverse cosine
+annular groove
+linking authenticated persons
+interpolating view coefficients
+performing convolution calculation
+appearance sense reality
+differential perception meta-learning
+increase recognition
+continuous spatial posture
+synthetic aperture radar
+tv audience rating
+multiple attributes
+color flow window
+playing video comprises
+multiple functions
+shoulder movement
+local organ
+automatic identifying
+weighing body
+quantitative estimation
+memory card
+internet privacy protection
+mounting hole
+actual position
+speed camera
+actual application condition
+personal effects
+predetermined encryption algorithm
+description operator
+infrared lamps
+millimeter wave radar
+hollow rectangular
+holding ring
+dustproof net
+infrared sensing head
+photo library
+fingerprint images
+local receptive field
+mechanical arm
+checkout counter
+restoring algorithm
+binary tree
+fixed leg
+artificial neural
+local horizon
+service personnel
+selecting position
+classroom quality
+hsl color space
+cross flow fan
+sense organ
+classification engine
+fire protection field
+silicon oxide
+covariance matrix
+automatic tagging
+computed tomography
+matching probability
+secondary recognition
+wide angle camera
+program instruction
+bluetooth ad hoc
+remote binding
+mobile devices
+student card
+association relationship
+sound groove
+linear combination
+coal conveying belt
+web camera
+weak classifier
+neural networks
+facial tracking
+movement speed
+adaboost algorithm
+adaptively adjusting
+svm algorithm
+instant messaging service
+chinese medicine constitution
+electronic camera
+start engine
+field lens
+regulating lever
+aluminum alloy shell
+represents standard variance
+criminal nature
+relationship degree
+test score
+lk algorithm
+body motion
+color map
+white spot
+cloud service
+low precision
+spiral cable
+wiring harness
+limiting pin
+sample covariance matrix
+touch key
+containment tank
+preset instruction
+language detection
+projection coefficient
+card sensor
+sparsity constraint
+main screen
+motion video
+fixed camera
+space changing
+transceiver antenna
+edge detector
+staff excessively participated
+confidence level
+sound feedback
+forehead width
+alignment detection
+tilt correction
+infrared cut filter
+color space conversion
+impulsive noise
+sequential monte carlo
+particle swarm optimization
+original sample
+real scene
+condition judgment
+electronic applications
+library management
+key pattern
+spatial filter
+convolution kernel
+power generating plant
+quality characteristics
+modulated optical signal
+hidden layers
+total amount
+population database
+transparent substrate
+motion track
+statistical moments
+palm print recognition
+personnel flow
+digital signage
+sets preset size
+wide application
+feedback signal
+rotating handle
+debugging test
+measuring temperature
+lithium battery pack
+cosmetic mirror
+hard disk interface
+photo gallery
+falling ball test
+connection position
+hard disk array
+mask pattern
+linear smoothing filtering
+stainless steel filter
+digital photograph
+gradient descent
+half gear
+ultrasonic generator
+decision tree
+gravity center
+increase density
+elevator car
+euclidean metric
+active users
+digital video recorder
+linear relation
+cloud platform
+electronic fence
+stock price prediction
+voice command
+lower left corner
+air pipe
+barcode scanner
+hand gesture
+obstacle detection
+smart glass
+video memory
+purification tank
+power spectrum density
+cavity bottom
+illumination coefficient
+symmetrical plane
+cutting blade
+hollow cavity
+lip position
+millimeter wave images
+recognition units
+family friend
+memory body
+air outlet tube
+video scene
+background illumination
+polarizing filter
+similarity comparison
+pixel density
+database searching
+multiple detection
+reference database
+body movement
+band type
+original position
+luv color space
+occupied space
+insertion hole
+greatly increases
+elder people
+color pattern
+threat detection
+sample covariance
+linear shape
+variance calculation
+facial emotion recognition
+multiple ranges
+fur shape
+matching vector
+smooth development
+historical authentication record
+tubing string
+serial peripheral interface
+generalized inverse matrix
+plane angle
+mouth cavity
+extraction units
+classification criterion
+correlation algorithm
+stores weblog images
+ellipse shape
+innovative idea
+voice engine
+private key
+program storage
+linear classification
+color edge
+limit disc
+reduced scale
+texture coefficient
+encryption key
+lithium battery
+finger print
+strong practicability
+standard jpeg
+acquires users biological
+garbage collector
+recognition stealing difficulty
+intercepting criminal suspect
+identity judging signal
+extracted hidden identity
+imaging quality
+card sensing
+interference screen
+noise removal
+lower edge
+scaling algorithm
+lubricating oil nozzle
+voice coil motor
+partially overlapped
+mapping relationship
+included angle
+grey scale picture
+heat map
+green low carbon
+threshold vector
+hidden space
+tag library
+pixel difference
+dimensionality reduction algorithm
+optical sensor
+lens distortion
+stereo pair
+motion sensing
+scanning laser ophthalmoscope
+computing language
+vector extraction
+depth detection
+traffic targets
+recognition threshold
+public facility
+hard disk recorder
+correlation filter
+hospital department diagnosis
+automated test
+polluted air
+noise reduction
+analyzing pedestrian track
+millimeter wave
+detecting fraud
+acceleration sensor
+generalized eigenvalue decomposition
+filter screen
+logistics transportation
+active type
+matched samples
+color tone correction
+head movement
+relative difference
+temperature sensor
+hand sanitizer
+center console
+storing program
+elastic sealing ring
+unmanned crane
+hypertext markup language
+historical emotion
+dangerous situation
+screw thread
+continuous collision detection
+chinese medicine facial
+multiple targets
+single sample
+dark pouches
+voice signals
+herpes simplex virus
+similarity matching
+dimensional vectors
+quality classification
+left position
+pixel width
+positioning sensor
+upper limb movement
+ycrcb color space
+pressure spring
+propagation algorithm
+head shielding
+requested client parses
+horizontal position
+screen locking
+mapping space
+cctv camera
+binary images
+social networking
+abnormal behavior detection
+joint diagonalization
+portable electronic
+mounting pipe
+total loss
+meet precision requirement
+age difference
+picture quality
+craniofacial reconstruction
+laser stripe
+equally divided
+semantic intention
+infection risk
+pca dimensionality reduction
+quadrilateral grid
+locating key
+identity characteristics
+emotional cue
+mechanized coal mining
+iris scanning
+eye movement pattern
+brightness adjusting knob
+effectively overcomes
+expected values
+infrared sensing
+card slot
+video grid
+piezoelectric crystal
+head lamp
+positional relationship
+abnormal body temperature
+cross bar
+training personnel
+eye movement characteristics
+batch normalization
+multiple processes
+body fat
+psychological activity
+thread pipe
+vector expressing
+linear fitting
+dust removing
+photonic crystal fiber
+damping bearing
+straight lines
+biometric verification
+driver testing
+position division
+video shooting
+picture storage
+video graphics array
+change degree
+voice player
+preset angle
+threshold condition
+vocational education management
+multilayer perception
+quality score
+multiple video sequences
+body temperature sensor
+hard disk
+voice messaging
+electric motor
+measurement plan
+rocker arm bracket
+cherry tree
+application programming interface
+facial age estimation
+rolling angle
+2d images
+stereo camera
+subscription service
+field angle
+yaw angle
+binary character string
+hanging basket
+pyroelectric infrared detection
+saving oil
+surrounding sound
+body color
+paper money
+guide strip
+monocular camera
+store meeting record
+skin condition
+pixel size
+voice activity detector
+texture repairing
+rotating seat
+sink node
+video chat application
+personal digital assistant
+remote web
+eye outline
+video decoding chip
+gooseneck pipe
+outer contour
+comparing test
+size normalization
+rough classification
+imaging methods
+privacy level
+mouth corners
+classroom scene
+differential management
+partially covered
+ambient brightness
+record includes sensed
+prediction algorithm
+sample collecting
+correlation degree
+recognition condition
+collection node
+electronic commerce application
+transparent material
+combination methods
+hidden camera
+fingerprint sensing
+imaging devices
+exhaust fan
+electronic toll collection
+hand gesture recognition
+automatic diaphragm
+multiple instances
+optical character
+vertex angle
+main road
+air condition
+multiple segments
+capture conditions
+golf club head
+carrying articles
+red eye
+charge coupled
+leaf nodes
+pictorial structures
+lamp switch
+photographic images
+imaging camera
+dct coefficient
+precision loss
+handheld gps receiver
+permanent population
+microwave transmitting antenna
+distributed type
+public platform
+linear superposition
+viewing position
+adjusting bracket
+color filter substrate
+freight forwarding company
+lane departure warning
+edge map
+distributed calculation
+weight vector
+nearest neighbour classifier
+annular gear
+reading program
+smoking behavior
+xy plane
+continuous imaging
+local descriptors
+automatic focusing
+grey level histogram
+gamma angle
+detection engine
+combined training
+screen displays
+color setting
+delivery instruction
+emotional expression
+smart cameras
+wave decomposition
+original shape
+air hole
+relative positions
+grey scale difference
+texture mapped
+micro expression
+protection cultivation
+direct drinking water
+emotion type
+enlarged view
+lantern ring
+service queue
+eye tracking algorithm
+cloud database
+bunch graph
+thermal imaging picture
+vent hole
+flat convex lens
+shortest path matrix
+fractional power
+laser scanner
+to-be issued picture
+optimizing treatment
+membership degree
+warning signal
+picture plane
+eye movement
+photometric stereo
+neighboring pixels
+golf ball
+cloud computing database
+actual age
+probability density curve
+cornea curvature radius
+digital imaging
+space searching
+identifying animal
+monolithic substrate
+linear expression
+lens cover sensor
+glass arm
+ic card
+starting key
+multiple linear regression
+upper lip
+color correction algorithm
+difference detector
+patient age
+ball grid array
+square algorithm
+surrounding condition
+matching degree calculation
+fingerprint scanner
+variable length
+similarity matrix
+depth camera
+correct answer
+hot air
+regression curve
+probability density
+motion conditions
+arranges selected screen
+moment fourier descriptor
+automobile exhibition hall
+bluetooth connection
+fisher projection
+basic character
+multiple host computers
+digital envelope
+shape variable
+logistics management
+infrared wave band
+red green blue
+cache memory
+operating condition
+weighted summation
+original high-resolution
+air pollution
+air jet nozzle
+photo convolutional neural
+yuv color space
+normalization algorithm
+doppler radar sensor
+fraud prevention
+laser emitter
+stainless steel material
+video analytics
+regularization term
+indium tin oxide
+kinect sensor
+electronic cigarette
+common zone
+address list
+electric power tool
+key position
+conveying belt
+coal rock interface
+matching tracking algorithm
+infrared temperature sensor
+lcd screen
+correlation test
+balance weight
+infrared led
+position checking
+water quality sample
+aerosol delivery
+spatial layout
+outer diameter
+reconstructed images
+metal probe
+pixel level
+active devices
+sample training
+sorting flow bookshelf/cabinet
+logarithm conversion
+fingerprint sensing chip
+humanoid robot
+button switch
+shortest path
+column orthogonal matrix
+character portrait
+lagrangian multiplier
+video conferencing
+experimental values
+multifunction peripheral
+decision fusion
+texture coordinates
+field installation
+biological detection
+detection threshold
+sd card storage
+moved forward
+comparison threshold
+chroma-saturation difference computed
+alert level
+original database
+size comparison
+cutting step
+automatic sensing
+fingerprint authentication
+optimal path
+translation amount
+scene recognition
+edge enhancement
+bathroom mirror
+guide post
+pin groove
+multiple reference images
+prompt signal
+conversion matrix
+locating pin
+detecting imaging
+pay attention
+vandal-proof property
+pixel color
+black dot
+tilt angle
+eye shadow
+radar sensor
+proximity sensor
+test subjects
+mounting substrate
+asphalt mixture
+smooth contour
+water vapor content
+subway stations
+delaunay triangulation algorithm
+palm vein recognition
+body activity
+field shooting
+establishing connection
+narrow band filter
+acoustic sensor
+speech synthesizer
+lens correction
+rotary drum
+silica gel desiccant
+intellectual property service
+service efficiency
+3d camera
+similarity threshold
+photographic lens
+standard size
+mapping graph
+pattern generator
+makeup mirror
+false verification
+digital signatures
+public key
+wearing ring
+screw threaded connection
+nearest neighbor classification
+visually impaired
+sign language translator
+packet radio
+infrared thermopile sensor
+mounting sleeve
+multilevel clustering
+coating action
+portable gray map
+rapid succession
+evaluating teaching quality
+elastic materials
+fingerprint registration
+temperature measurement
+electronic devices
+predetermined form
+spatial partitioning
+confidence degree
+combined weight
+bit map
+lower dimensional
+epidemic prevention
+realistic rendering
+localization algorithm
+inclined angle
+spatial relation
+memory matrix
+automotive field
+video displays
+wave bands
+fixed installation
+reference position
+single color
+matrix decomposition
+angle calculation
+personnel classification
+inertial measurement
+camera signal
+blur correction
+effective collection
+genetic algorithm
+shielding coefficient
+power saving
+signal enhancement
+fixed length
+gesture recognition
+multimedia contents
+relative size
+main classes
+drivers behavior
+multiple variations
+thread sleeve
+noise eliminating
+attention detection
+reticulate pattern
+detecting thief
+center axis
+mouth outline
+vector library
+health care field
+existing traffic
+automation degree
+actual motion
+alignment algorithm
+actual images
+linear svm
+disparity map
+consumption habit
+car condition
+surveillance application
+grooved disk
+constraint relation
+cavity body
+radius size
+guide hole
+candidate pixel
+remote computing
+lab color space
+middle school classroom
+nose bridge
+ultrasonic locating
+low compression
+calculation amount
+optical fiber cable
+relative geometry
+illegal riding
+tilting head expressions
+video imaging
+emotion change
+buffer spring
+social networking tool
+multiple users
+glass material
+fault diagnosis
+preset expression degree
+tax staff
+continuous training
+kalman filter algorithm
+emotion rule
+regression treatment
+air outlet pipe
+golf club
+market application
+effective prevention
+multiple pictures
+social networking service
+illumination effects
+lifting screw
+car roof
+usb interface
+fuzzy support vector
+silicon nitride
+camera field
+rich degree
+online service provider
+social relationship
+usb interface chip
+traffic management platform
+electronic archiving
+hot air pipe
+vice versa
+numerical values
+training video
+gaussian density
+cloud computing
+upper eyelid edge
+storage cavity
+sound matching
+medication record
+cluster center
+ycbcr color space
+imaging optical path
+attention level
+statistical histogram
+matching degree
+eye gaze tracking
+filter algorithm
+nursery school
+vibration motor
+facial outline
+air temperature
+lip shape
+illumination level
+video synchronization
+diffraction pattern
+independent character
+cloud computing platform
+centre position
+lens angle
+training quality
+motion sensor
+business transaction
+emergency condition
+horizontal deflection
+infrared remote sensing
+pitch angle
+recognition platform extracts
+guest privilege
+character map
+angle difference
+power spectrum densities
+wavelength band
+users profile
+postal address
+classification algorithm
+weighting fusion
+micro air pump
+body temperature probe
+addressable memory
+movement estimation
+cascade training
+electronic computing
+embedded platform
+eye tracking
+coincidence degree
+snapshot camera
+fusion vector
+speech signal
+pattern recognizer
+incoming call management
+software application
+transverse coordinates
+laplace operator
+paper sheet
+color photographic
+cylindrical shell
+mixing matrix
+fingerprint recording
+horizontal projection
+curve edge
+chinese medicine diagnosis
+body coordinates
+voice recording
+automatic segmentation algorithm
+walking movement
+electronic signature
+blind spot
+rubbish bin
+facial types
+spatial position
+online shopping
+sample database
+laser lamp
+blur algorithm
+vertical axis
+color difference values
+image processing platform
+local control unit
+objective image
+transparent glass plate
+online social network
+front cover plate
+fisher criterion function
+electric control box
+shape feature
+power consumption device
+heat imaging device
+output control signal
+mobile phone client
+vehicle identification system
+low utilization rate
+light emitting module
+hausdorff fraction exceeds
+video acquisition system
+infrared receiving module
+optical communication link
+output control module
+led light source
+false recognition rate
+visible light images
+automatic target identification
+deep belief network
+streaming media server
+electronic control device
+target tracking equipment
+radial basic function
+deep learning theory
+speed measuring device
+mobile terminal equipment
+image acquisition module
+rain sensing module
+performs notification based
+information processing terminal
+rs485 data bus
+light transmitting property
+time interval difference
+current image comprising
+information collection mechanism
+data recording device
+recognition result
+timer periodically triggers
+main control board
+temperature sensor array
+laser sighting device
+quick response code
+original video signal
+human resources information
+ambient light sensor
+large screen display
+high resolution images
+modulated light source
+security control system
+digital image processing
+real time monitoring
+alarm module
+automatic driving system
+sound source location
+banks internal house
+automatically finish focusing
+modified census transform
+back scattering coefficient
+hospital information system
+special effect processing
+feature point positioning
+texture feature vector
+left end
+2d imagining/scanning apparatus
+user interface layer
+logistic regression algorithm
+data transmission unit
+mobile phone
+lagrange multiplier method
+electron microscope image
+contour feature points
+wide development prospect
+silica gel plate
+determination result
+distance measuring module
+smart phone
+data storage system
+center control unit
+weighted hamming distance
+temperature measuring instrument
+motion control unit
+exit face
+reduce resource consumption
+mobile computing device
+average gray level
+identity recognition function
+side wall facing
+tracking information
+face image
+local reference frame
+error correction coding
+distributed storage system
+automatic ticket checker
+computer processing system
+mobile communication terminal
+data input module
+graph cut model
+central control panel
+low dimension space
+analyzing results
+validation set
+integrated circuit chip
+cluster analysis result
+computer network connecting
+wireless communication networks
+user content
+main control system
+steel wire ropes
+extracting image feature
+comprehensive evaluation result
+image capture device
+motion correction
+power transmission line
+food processing process
+independent type design
+crime prevention system
+gray scale information
+telephone switching network
+side lobe ratio
+prevent damage
+machine vision system
+euclidean distance
+image collector
+swing rod
+closed circuit tv
+light emitting component
+bank account settlement
+analog video signal
+safety protective device
+printing control table
+heart rate pulse
+save electrical energy
+internet shopping system
+augmented lagrangian function
+electronic display screen
+neural network analysis
+high automation level
+rbf neural network
+bottom end
+live broadcast system
+machine learning algorithms
+optimal control strategy
+key point descriptor
+authentication system
+network interface
+recognized face area
+sound control switch
+biological feature identification
+input power supply
+visually impaired person
+artificial intelligent unit
+industrial personal computer
+access control module
+globally unique identifier
+image quality factor
+verification set data
+laser marking machine
+social networking system
+skin color information
+unit normal vector
+traffic control strategy
+infrared image sensor
+liquid crystal molecule
+key point data
+test image
+mode selection unit
+flexible circuit board
+human behavior analysis
+pattern recognition techniques
+inertia measuring unit
+key module
+neural network method
+front side panel
+augmented reality image
+main machine body
+auxiliary learning system
+license plate recognition
+ecg monitoring device
+camera base
+dimensional bar code
+real time tracking
+humans status recognition
+heart rate estimation
+object detection algorithm
+face feature point
+infrared sensor
+outer end
+inverse perspective transformation
+mobile operating system
+machine learning model
+identification mechanism
+automatic image classification
+data processing center
+main control device
+user information registration
+divided residual image
+artificial intelligence techniques
+wide application range
+photoelectric conversion rate
+convolution layer
+small floor area
+empirical mode decomposition
+data transmission terminal
+control processing module
+augmented reality technology
+hinge loss function
+digital tv set
+municipal power supply
+authorization system
+simple system structure
+safety control center
+influence image quality
+lcd display unit
+time correlation analysis
+intelligent monitoring system
+integrated drive electronics
+target detection unit
+outer contour line
+optical flow method
+mirror image principle
+high risk area
+computer vision field
+test question base
+upper side
+line sections
+dynamic image sequence
+field monitoring unit
+middle part
+extracting face region
+frequency domain features
+intelligent temperature measuring
+point distribution model
+air pump system
+intelligent terminal equipment
+global address space
+error recognition rate
+processing identification result
+real time receive
+structured light-based three-dimensional
+neural network classifier
+supporting seat
+automatic door controller
+neural networks based
+access control system
+lvq neural network
+standard coordinate system
+normalization processing
+electrostatic charge distribution
+predetermined tracking point
+recognition rate
+current frame
+computing device
+high identification accuracy
+realistic image synthesis
+air inlet hole
+connecting block
+crop growth period
+lifting block
+high frequency analysis
+data output module
+detect human faces
+outer side
+holographic optical element
+cable news network
+user authentication system
+fingerprint identification unit
+fisher discriminant analysis
+pixel driving circuit
+radio frequency label
+cascaded neural network
+connection rod
+diffractive optical element
+head mounted display
+data group satisfies
+unmanned aerial vehicles
+sequence number menu
+lower surface
+low level output
+restricted boltzmann machine
+image analysis algorithm
+spi communication interface
+high dimensional dataset
+image recognition
+cloud storage system
+intelligent monitoring terminal
+intelligent control module
+high speed operation
+storage medium
+effective activity time
+physical examination center
+credit card
+front end module
+wireless access point
+output unit
+face recognition model
+loan business process
+radio base station
+relative depth map
+testing set
+standby power supply
+target user
+human machine interface
+environment construction equipment
+intelligent electronic device
+low temperature environment
+electronic file cabinet
+identity identification function
+customer service representative
+human face photo
+artificial neural network
+front portion
+image sensing device
+digital signal processing
+upper wall
+school safety management
+pyroelectric infrared sensor
+scientific research personnel
+sparse representation classification
+video image acquisition
+principal component analysis
+space light modulator
+input output interface
+light source direction
+tcp/ip protocol stack
+normal working conditions
+preset period
+infrared face image
+computer network system
+high precision based
+mobile power supply
+information acquisition terminal
+data storage area
+industrial control computer
+remote communication module
+uniform resource locator
+person identification code
+subway signal system
+local feature descriptor
+image processing field
+data analysis processing
+auxiliary control panel
+eye state identification
+central wavelength
+at89c51 single chip
+attribute recognition model
+normal working state
+visual saliency map
+optimal individual
+vehicle door
+radio frequency card
+cross rod
+intelligent home appliance
+information processing system
+registration-feature point data
+coronary blood vessels
+power supply interface
+collecting image
+power drive circuit
+metal object automatically
+input end
+drive control module
+target reference point
+orl face database
+remote control car
+trigger control plate
+information data base
+facial action unit
+transmission bevel gear
+original training set
+feature end points
+mouth opening degree
+central control unit
+master control unit
+information comparing platform
+controller unit
+wavelet packet transform
+updating database information
+auxiliary air port
+electromagnetic induction switch
+information exchanging platform
+embedded intelligent home
+hydraulic lifting mechanism
+age range
+receiving multiple paths
+projection light source
+eye movement detection
+portable electronic device
+human body information
+camera coordinate system
+real estate case
+prolonging service life
+person-attention judging method
+fingerprint collector
+financial service system
+virtual reality environment
+data collecting module
+general data set
+face image recognition
+central control device
+collecting unit
+remote account opening
+identity authentication request
+driver status monitor
+image acquisition unit
+door plate
+ccd camera lens
+connecting box
+statistical analysis module
+adaptive background image
+security system
+engine control module
+video data
+mapping relation table
+local texture feature
+bank card transaction
+power supply assembly
+central processing computer
+communication interface card
+hydroelectric generating unit
+distribution data
+programmable logic device
+human motion data
+pin shaft
+digital video controller
+economic loss caused
+real-time updating data
+connecting wire
+entrance guard system
+security inspection work
+data synchronization unit
+natural language processing
+sparse representation classifier
+index calculation unit
+main control surface
+planar light source
+wireless computer network
+landmark point location
+mobile telephone terminal
+remote monitoring center
+public transport system
+side wall
+electric lifting platform
+external auditory meatus
+ambient light illumination
+video server
+frequency domain information
+fixing plate
+wireless sensor network
+universal serial bus
+working station
+video camera
+light emitting layer
+intelligent medicine box
+high safety reliability
+data association analysis
+large data
+plc control system
+supervised descent method
+face region detection
+control unit
+characteristic point detecting
+fusion expression vector
+swimming pool area
+local texture model
+feature extraction unit
+light source
+store space-time information
+high order derivative
+speech recognition model
+authority management module
+straight line
+signal processing unit
+online training platform
+identity authentication process
+threshold intensity
+law enforcement process
+thermal imaging method
+user input interface
+fastening gate locks
+integrated processing unit
+average distribution probability
+wide area network
+fixed focal length
+multivariate regression equation
+smart mobile phone
+dictionary learning model
+end point coordinate
+probability distribution vector
+middle key point
+inserting block
+mounting plate
+key point detection
+negative emotional state
+depth neural network
+deep learning method
+facial soft tissue
+device management platform
+fixing frame
+data input device
+input control unit
+remote data terminal
+home electrical appliances
+support vector machine
+fuzzy membership matrix
+liquid crystal tv
+local spatial information
+library data base
+simple circuit structure
+data generating process
+electric power operation
+target optimization model
+intelligent control platform
+control signal output
+switch control module
+obtaining image data
+method consists
+optimal classification face
+public security bureau
+power supply button
+main frame
+led digital screen
+infrared transceiver module
+positive training images
+human frame images
+existing models
+recurrent neural networks
+munsell color system
+public security organ
+data transfer unit
+infrared range finder
+increase recognition rate
+hierarchical classification management
+finger vein image
+industrial control machine
+video surveillance systems
+data input port
+human body parts
+feed-in identification algorithm
+light guiding plate
+weak perspective projection
+moving image coding
+voice processing module
+fold line
+clamping block
+evaluation unit
+visual image sensor
+face detection technology
+human body target
+input face
+infrared camera
+flight sensor system
+data acquisition unit
+data communication process
+user mobile terminal
+industrial control device
+shape data
+connected region extraction
+multiple processing devices
+information processing method
+discrete fourier transform
+histogram equalization algorithm
+deep learning system
+liquid crystal material
+teaching quality assessment
+vehicle sensor system
+lbp feature extraction
+back cover plate
+body control module
+low sampling rate
+good waterproof effect
+intelligent assisted driving
+infrared image recognition
+gradient descent method
+facilitating subsequent verification
+play important roles
+signal transmission module
+network module
+existing manual selection
+automobile power supply
+resource management unit
+flexible display device
+data collecting interface
+intelligent service system
+video capture system
+universal remote controller
+data processing system
+connecting spring
+light emitting device
+expert knowledge base
+multiple detecting modules
+current observer
+competition neural network
+frequency domain signal
+main control module
+maximum membership degree
+remote sensing images
+detection recognition interface
+feature point tracking
+public safety system
+single chip machine
+nonlinear activation function
+power supply wire
+fuzzy evaluation algorithm
+key point location
+comprehensive protection device
+card input device
+voice recognition system
+iris recognition technology
+central processing unit
+low refractive index
+data storage medium
+human face track
+identity authentication system
+single imaging device
+central control system
+involves selecting area
+linear equation group
+fingerprint identification module
+temperature detection component
+low frequency component
+real estate field
+data transmission network
+sliding plate
+friction plate
+video phone system
+local control panel
+information management database
+power supply terminal
+total mass fraction
+neighborhood preserving embedding
+image matching method
+fast fourier transform
+combined data set
+artificial nerve network
+market competitive power
+airport security inspection
+liquid crystal lens
+mel filter group
+computer vision technique
+traffic state information
+starting point
+switching power supply
+infrared light spot
+control output module
+structured light image
+deep learning model
+spatial light distribution
+motor vehicle environment
+fully convolutional network
+main structure
+local area feature
+human faces
+visual content analysis
+high dimensional feature
+social network relationship
+access control mechanism
+related coefficient
+safety management technology
+voice warning device
+narrow angle camera
+tower crane operation
+signal processing method
+eliminate stray light
+standard template
+absolute depth map
+intelligent entrance guard
+facial feature database
+pattern recognition technique
+master control chip
+ky fan theorem
+cloud server
+vertical long hole
+nave bayes classifier
+computation complexity
+thermal infrared images
+current operation state
+position information
+saving electric energy
+content character information
+front end processor
+linear correlation coefficient
+lower part
+central processing units
+video teaching system
+angle measurement algorithm
+user label information
+feature extraction method
+video monitoring system
+shooting mechanism
+public security organs
+heat exchange station
+short time energy
+portable handheld device
+graphics processing unit
+program guide system
+linear discrimination analysis
+double data rate
+eye movement data
+object recognition task
+binary feature descriptor
+vc dimension theory
+engineering project work
+liquid crystal display
+real time watch
+remote monitoring system
+electronic device
+service logic layer
+video analysis system
+communication control module
+printed circuit board
+intelligent control system
+linear regression model
+action verification module
+active contour model
+geometrical features
+temporary storage table
+key points
+human computer interaction
+multiple labeled samples
+high frequency component
+electronic storage medium
+white balance adjustment
+acquisition time interval
+intelligent storage device
+wireless transmission system
+memory unit
+full life cycle
+intelligent patrol system
+personally identifiable information
+fusion characteristic diagram
+random forest algorithm
+communication transmission mode
+extension unit
+face image database
+common video camera
+open computer vision
+mechanical main body
+glass cover plate
+high performance computer
+entrance guard module
+safety precautionary measures
+random sampling
+fine adjustment mechanism
+electronic commerce system
+voice processing unit
+power supply line
+user terminal module
+fingerprint identification algorithm
+top plate
+latent dirichlet allocation
+signal amplification circuit
+higher remarkable region
+abnormal behavior recognition
+time series analysis
+digital image recognition
+data processing method
+public security network
+visible light sensors
+entire training set
+background management system
+infrared thermal imaging
+solar battery plate
+fixing rod
+classification accuracy rate
+intelligent sensor system
+adjusting white balance
+random forest model
+obtain emotional attribute
+raster scan order
+consumer electronic
+human robot interaction
+reasonable structure design
+multiple reference points
+video display processor
+hierarchical neural network
+information representative
+fuzzy inference system
+stainless steel
+multivariate linear regression
+binocular vision sensor
+automated identification
+low frequency coefficients
+intelligent analysis technology
+circuit board assembly
+information enabling identification
+initial state
+wireless network bridge
+security inspection system
+ticket gate system
+main control chip
+outputs control signal
+hard disk drive
+active learning algorithm
+adjusting device
+sub-frame synthesis processing
+facial feature detection
+kernel discriminant analysis
+gender classification
+system configuration information
+wide angle objective
+normalized face image
+intelligent obstacle avoidance
+information interacting device
+noise reduction processing
+data processing platform
+resident identity card
+cartesian coordinate system
+network structure model
+parameter calculation formula
+distance feature vector
+wireless communication device
+led lamp array
+user management module
+entrance pupil diameter
+squared euclidean distance
+upper end
+gas barrier film
+sliding time window
+wireless communication system
+training sample sets
+identification map database
+small wave conversion
+structural feature information
+external data set
+normal speed walking
+usb communication interface
+disappeared person
+passenger flow information
+local minimum values
+markov decision process
+noise point detection
+lifting plate
+storage ability
+law enforcement agency
+master control system
+intelligent monitor terminal
+rigid suspension device
+video service module
+central control machine
+clock control module
+image recognition technology
+energy conversion component
+long term evolution
+radial basis functions
+power supply device
+intelligent home controller
+facial expression analysis
+video feature extraction
+high dimensional space
+external memory interface
+network activation function
+upper side wall
+infrared sensor module
+dynamic routing mechanism
+neighbor face representations
+specific models
+high sampling rate
+auxiliary reproductive technology
+dust removing device
+automatic teller machine
+power supply box
+secondary processing unit
+portable electronic product
+central body temperature
+probability distribution model
+pulse width modulation
+logistic regression model
+advertising content
+sigmoid activation function
+medical image data
+normal distribution curves
+automatic driving vehicle
+automatic control system
+method includes
+motion control card
+speech synthesis system
+calculating shielding degree
+storage unit
+correct recognition rate
+good economic benefit
+passenger flow density
+content distribution service
+local phase quantization
+human behavior recognition
+nodal point number
+feature point detection
+human body segmentation
+data required
+data transmission device
+air inlet pipe
+rnn-rbm neural network
+financial analysis module
+text image
+facial feature points
+behavior recognition
+local constraint vector
+automatic tracking system
+main control computer
+image collecting precision
+extreme learning machine
+image preprocessing
+image acquisition card
+speaker identification model
+social security system
+specific word
+training images set
+device control system
+authentication mode
+movable clip
+imaging optical system
+height adjusting device
+spatial light modulator
+cognitive rehabilitation training
+passenger flow detection
+signal transmission line
+dimensional model
+surface light source
+main control mechanism
+ethernet communication module
+unauthorized access
+tracking algorithm based
+adjust pitching angle
+control keys
+facial recognition software
+biometric data
+digital image sequence
+embedded face recognition
+mixed gaussian model
+automatic voltage regulator
+gate control signal
+predetermined regression equation
+neural network parameter
+camera vidicon module
+android mobile phone
+virtual reality engine
+imaging objective lens
+predetermined face size
+initial center point
+time parameter
+error correcting code
+identification result
+character image information
+camera module obtaining
+binocular vision system
+driving behavior model
+synthetic face image
+discrete radon transform
+respiratory protective equipment
+local area network
+traffic signal lamp
+analyzing study state
+digital rendering device
+ccd sensing device
+gabor wavelet transform
+object recognition method
+point spread functions
+mobile terminal system
+texture feature set
+linear regression equation
+access control unit
+financial payment services
+living image based
+file view record
+decrypted document information
+light receiving unit
+dense optical flow
+conditional probability distribution
+magnetic induction line
+image monitoring system
+microprocessor producing company
+optical axis
+high resolution image
+moving object detection
+data transmission card
+supporting vector machine
+core processing module
+wavelet kernel function
+audio processing unit
+feature extraction sub-module
+training data set
+data link switching
+identity identifier
+sound recording system
+content presentation system
+remote online monitoring
+standard communication protocol
+current image
+healthcare information system
+bluetooth detection device
+object plane
+image processing module
+public opinion surveys
+live video streaming
+totally reflected rays
+major part
+gaussian distribution model
+exposure time
+voice recognition function
+light-transmitting regions overlapping
+recurrent neural network
+visual attention mechanism
+contour feature extraction
+supporting mechanism
+gradient direction
+cmos digital camera
+cylindrical box
+personal identity authentication
+identity card photo
+optical phased array
+heart rate variance
+streaming media service
+voice input device
+interactive user interface
+solid state relay
+sliding groove
+communication unit
+digital camera
+unmanned flying vehicle
+intelligent inspection device
+user account number
+feature point extraction
+inverse frequency spectrum
+template matching algorithm
+gradient descent technique
+face image acquisition
+main body
+power saving effect
+reflecting surface connected
+risk analysis process
+checking device
+power supply channel
+early warning system
+network management server
+canonical correlation analysis
+transistor transistor logic
+automatic unlocking device
+vehicle-mounted communication module
+domestic electric appliances
+dimensional data
+conjugate gradient algorithm
+trained svm classifier
+intelligent management system
+image side
+smart picture frame
+single board computer
+digital circuit module
+control unit registers
+left side wall
+distribution management system
+information processing module
+image processing chip
+display output unit
+narrow frame design
+stream media data
+synchronous dynamic ram
+feature extraction model
+second-order characteristic matrix
+wide application prospect
+image quality improvement
+multiple critical points
+picture input device
+high automation degree
+sequential images
+facial expression feature
+prior shape model
+single laser beam
+generate salience charts
+access control channel
+solar power supply
+data storage center
+user identifier
+object recognition algorithm
+subscriber identity module
+joint sparse representation
+automatic railing machine
+capacitive touch technology
+access control procedure
+fuzzy evaluation index
+smart mobile terminal
+thermal infrared image
+wide market prospect
+public security system
+law enforcement officials
+power function law
+security purpose
+infrared feature extraction
+terminal control center
+real time detection
+positive inclination angle
+input adaboost classifier
+social network system
+wireless positioning system
+video processor
+spatiotemporal interest point
+digital video signal
+intelligent evaluation method
+image based method
+convex optimization method
+fingerprint feature point
+portable information terminal
+low resolution images
+file transfer protocol
+curved surface design
+closed state
+data processing centre
+motion detection algorithm
+training sample
+infrared temperature probe
+fully connected network
+current usage scene
+power supply
+probabilistic graphical model
+color recognizing process
+telescopic rod
+feature vector set
+iris recognition
+high dielectric material
+side part
+thermal imaging technology
+microphone array
+normal probability distribution
+energy consumption data
+past medical history
+performing user operation
+face expression database
+real time image
+euclidean distance classifier
+transmission identification number
+evaluation index system
+biological information database
+video capture device
+user terminal
+structural similarity index
+focal distance
+intelligent monitoring device
+data processing computer
+facial image recognition
+dynamic verification code
+coded information
+radio communication system
+reduce labour intensity
+personal identification
+access control list
+dual serial port
+geometry characteristics
+indoor monitoring system
+received curse information
+license plate image
+mvc design pattern
+liquid crystal box
+audio search engine
+intelligent vision system
+teacher network training
+local feature analysis
+cloud system
+parameter identification model
+protective device
+light emitting diode
+social media platform
+central control mechanism
+remote sensing information
+model involves obtaining
+performed based
+back propagation algorithm
+piezoelectric ceramic device
+illumination light source
+virtual private network
+personal account number
+product development period
+natural light environment
+particle group algorithm
+power supply path
+training participant attends
+pc upper computer
+contact smart card
+face recognition technique
+network communication module
+time sequence analysis
+closed circuit system
+auxiliary illuminating lamp
+dynamic identification performance
+visual acuity chart
+power shaft
+inertial measurement unit
+frame main body
+voice feature
+video data stream
+gradient echo sequence
+image database
+human resource management
+hash function
+structural block diagram
+thermal dynamic analysis
+network communication protocol
+minimum cost function
+time sequence characteristic
+point cloud data
+quality assessment module
+main body module
+electric energy consumption
+central processing system
+paper currency image
+communication equipment room
+feature vector model
+vertical plate
+top cover
+video processing unit
+image content
+distinguishing face distinctly
+grid search method
+receive input
+processing circuitry
+maximum likelihood estimation
+horizontal straight line
+control valve opening
+guide unit
+electronic data
+adaptive feature fusion
+image characteristic point
+optical flow sensor
+hidden layer
+fuzzy clustering method
+space transformation relation
+artificial intelligence recognition
+pattern recognition system
+comprehensive management platform
+digital video data
+pedestrian detection algorithm
+probability density function
+wireless transmission technology
+movable pulley
+blood flow image
+bar code information
+power supply controller
+local standard deviation
+spherical coordinate system
+characteristic parameter extraction
+graphic user interface
+central control computer
+virtual interaction system
+arithmetic processing unit
+histogram equalization method
+personal face image
+wireless communication module
+reinforcement learning model
+biological neural network
+information transmission channel
+logic control unit
+light intensity sensor
+resistance network model
+social security card
+internet shopping mall
+computer main board
+virtual reality system
+comparison result
+fingerprint identification system
+outer plexiform layer
+current market demand
+time stamp information
+incomplete point cloud
+driving support system
+light source module
+video image display
+camera image acquisition
+adaptive learning method
+dynamic testing method
+radial symmetry transform
+limiting component
+fisher discrimination criterion
+power line phase
+data transmission mechanism
+kernel feature space
+streaming media protocol
+personal communication device
+heart rate detection
+remote terminal processor
+identification unit
+operation mode set
+driving control strategy
+bid evaluation report
+fingerprint attendance machine
+facilitating language preferences
+serial port server
+vehicle data acquisition
+learning support system
+supplementary light source
+statistical analysis result
+central control center
+charge couple device
+intelligent device
+user information entered
+biometric personal identification
+wireless network connection
+sliding blocks
+contact rod
+feedback module
+criminal investigation system
+smart home appliance
+hand region
+traffic light signal
+transmission control protocol
+illumination control module
+content management system
+real time position
+machine learning models
+sample data set
+nerve network model
+good developing prospect
+higher quality service
+mobile telephone
+public security office
+video monitoring terminal
+sparse illumination dictionary
+heterogeneous neural network
+central control board
+image processing program
+traditional chinese medicine
+signal collecting unit
+bar code scanner
+nuclear radiation detection
+level set function
+programmable logic controller
+parallel neural network
+computation cost
+intelligent cash register
+internet protocol tv
+multi-wheel voice interaction
+protective cover
+computerized facial recognition
+image fusion model
+complete medical history
+neural network trained
+key point position
+digital camera module
+bearing column
+image information
+user authentication server
+time domain process
+intelligent alarm system
+performing simulation analysis
+electric control door
+intelligent express cabinet
+identified object
+augmented reality system
+network monitoring system
+relieving visual fatigue
+circuit control board
+traffic management device
+main control processor
+identification table
+electric circuit board
+trusted execution environment
+dispersive delay line
+unmanned aerial vehicle
+external environmental factors
+space utilization rate
+reduce production cost
+active shape model
+screen coordinate system
+color image sensor
+teaching evaluation system
+circular cross section
+capture time
+mobile information terminal
+key feature points
+feature point matching
+convolution nerve network
+relative reference frame
+good practical effect
+switch power supply
+plane coordinate system
+bearing block
+illegal medical practice
+nerve network method
+data storage module
+driving rod
+image display device
+moving plate
+full duplex communication
+facial recognition technology
+camera device
+high definition image
+image pickup device
+infrared image sequence
+main control terminal
+facial tracking/recognition mechanism
+card reader
+light source assembly
+employee id card
+wood surface defect
+illegal transaction
+optical flow algorithm
+pattern characteristics
+illumination compensation detector
+flat surface
+comprehensive security system
+facial recognition system
+computer network technology
+serial communication port
+flat plate structure
+drive control unit
+support vector machines
+expert rule module
+personnel management system
+information processing unit
+remote management center
+general purpose computer
+connecting block arranged
+front side door
+viewing angle range
+law enforcement system
+selected position
+carrier phase measurement
+signal processing function
+key frame data
+identification degree
+sliding block
+sliding window size
+principal component features
+private communication channel
+rgb color model
+fare collection system
+business management system
+care area
+position weight matrix
+large data processing
+facial feature point
+behavior recognition technology
+small end face
+water collecting tank
+limiting ring
+human face recognition
+training set
+image feature vector
+cleaning mechanism
+air conditioner controller
+frame selection function
+open source database
+intelligent door lock
+radio frequency reader
+visual inspection method
+thermal imaging system
+binary image data
+security monitoring industry
+computer system
+guide rail
+light intensity signal
+temperature measurement system
+proportional integral derivative
+facial image
+wavelet decomposition level
+sensor interface circuitry
+processing digital image
+maximum monitoring range
+grey scale image
+keyless entry system
+variable length code
+performing block processing
+original image data
+expected waiting time
+secure digital card
+photosensitive elements
+data control center
+target data set
+optical flow estimation
+light control sensor
+human face detection
+automatic waking device
+power saving mode
+facial feature set-b
+data collection terminal
+test identification precision
+video conference system
+operation processing unit
+solid state disk
+acupuncture point massage
+face recognition algorithms
+field effect tube
+gesture recognition algorithm
+switch control device
+short message service
+social media platforms
+operation state
+temperature sensing element
+probability prediction model
+identification station
+training network
+multilayer neural network
+gravity spring
+memory control module
+active appearance model
+remote machine room
+differential geometry methods
+multiple neural networks
+binocular stereo vision
+virtual fitting system
+target group index
+autonomous learning process
+reduce computational complexity
+desired product
+high quality image
+graphic processing unit
+face pose estimation
+copy number
+feature extraction methods
+chinese character display
+lighting condition
+prompting device provided
+biometric information
+bayesian network theory
+advertising effect evaluation
+linear linked list
+image storage device
+image acquisition system
+temperature measurement process
+glass base plate
+distributed computing system
+biometric authentication system
+dust removing mechanism
+acquiring unit acquires
+side walls
+cellular telephone system
+social insurance person
+embedded vision system
+human body motion
+beidou satellite positioning
+low resolution image
+mobile network system
+liquid crystal molecules
+output end
+smart wearable device
+audio input unit
+access authentication database
+differential amplifying circuit
+wireless receiving module
+backstage management system
+signal control unit
+digital display screen
+sealing door
+information collection module
+siamese reconstruction network
+remote education system
+image tracking algorithm
+portable digital camera
+charge coupled device
+cloud technology
+high definition picture
+door lock handle
+trusted group
+camera coupled
+information processing platform
+facial recognition
+driving wheel
+polyurethane waterproof layer
+training sample set
+hadamard matrix product
+hydraulic lifting device
+selection control system
+voice input
+optimal transfer matrix
+automatic tracking
+blood volume pulse
+main component analysis
+temperature measurement module
+machine learning technique
+rotating shafts
+arm development board
+face recognition technology
+computer control board
+large end face
+subject data set
+wireless transmission modules
+touch screen monitor
+main circuit board
+user interface module
+identity authentication method
+mobile device
+unsupervised learning algorithm
+food safety system
+door lock control
+neural network learning
+video frame sequence
+high frequency amplifier
+detecting facial features
+specific color
+detecting mechanism
+integrated circuit manufacturing
+false alarm rate
+good market prospect
+user information
+adjacent domain
+artificial intelligence algorithms
+image sensor
+infrared sensing technology
+intelligent terminal system
+driving license examination
+random access memory
+identification serial number
+high humidity environment
+travel management system
+independent component analysis
+mobile network
+attribute analysis method
+large flow rate
+deep case frame
+data driven approach
+intelligent control unit
+neural network models
+wireless communication terminal
+intermediate frequency amplifier
+generating random number
+access control lock
+public security control
+fingerprint identification technology
+camera mobile phone
+code information
+additional security
+optical code reader
+deep learning framework
+remote data base
+power supply circuit
+human face location
+multipoint control unit
+color error
+machine learning system
+public security department
+latent factor model
+target tracking algorithm
+public safety problems
+unidirectional light transmission
+image similarity analysis
+smallest geometric distance
+dominant gradient direction
+information identification system
+security monitoring system
+image recognition system
+human body size
+image identification technology
+electronic mail address
+middle unit
+security department database
+user health information
+current frame image
+safety protection module
+matching feature points
+digital image acquisition
+program part
+audio output port
+differential mode circuit
+generating identification result
+higher recognition accuracy
+light emitting unit
+rail transit stations
+single chip controller
+high image quality
+early warning process
+piezoelectric film sensor
+low rank sparse
+big data analysis
+image processing technique
+quantitative analysis method
+wireless transmission protocol
+face analyzing system
+injection molding part
+credit information system
+perform operation
+integrated operational amplifier
+vertical projection method
+processing control unit
+physical configuration audit
+local binary fitting
+electric control valve
+semantic analysis method
+two-dimensional gray-level information
+human face fitting
+geographic information system
+low manufacturing cost
+image collection system
+public security management
+angular velocity sensor
+reflected light beam
+digital imaging device
+mobile terminal device
+minimum reconstruction error
+battery cover plate
+law enforcement recorder
+online social networks
+analog electrical signal
+security token
+data interface
+things technology field
+information management library
+credit card site
+intelligent shoe rack
+automatic sign-in function
+infrared detection device
+intelligent card reader
+predetermined mathematical model
+matching degree analysis
+image sequence
+maintaining public order
+image quality
+differential amplification circuit
+underground railway stations
+sound absorbing plate
+sparse feature vector
+world coordinate system
+central control module
+camera inspecting equipment
+central processing module
+identified face region
+performs sound-source separation
+data management system
+global information system
+media storage database
+legal representative agrees
+toughened glass panel
+original sketch portrait
+face recognition preprocessing
+telescopic hydraulic cylinder
+auxiliary light source
+video conference systems
+voice recognition device
+subscriber identification module
+mobile augmented reality
+image communication system
+light emitting devices
+image registration method
+ultrasonic distance measurement
+comprehensive analysis platform
+skin color features
+quality inspection process
+rotating plate
+euclidean space distance
+color face recognition
+image analysis system
+rechargeable power supply
+intelligent electronic lock
+point set matching
+human face tracking
+visible light spectrum
+fingerprint identification set
+setting feature templates
+door control unit
+center point coordinate
+facial expression pictures
+recursive neural network
+mental state analysis
+speech recognition method
+remote acquisition
+lift control system
+low failure rate
+non-rigid body area
+network interface circuit
+side surface
+conditional random field
+device management system
+calculation unit
+feature point location
+face detection algorithm
+operation control platform
+minimum euclidean distance
+field registration module
+computer controlling system
+motor vehicle license
+improve system performance
+machine readable medium
+operation main body
+discrete cosine transformation
+slide rail
+magnetic card reader
+steel wire rope
+digital image data
+user end comprises
+data collection module
+salient feature points
+reflectance distribution function
+network communication unit
+shape context descriptor
+dynamic programming algorithm
+voice recognition module
+target object
+data analysis center
+electronic data processor
+electric door lock
+human body movements
+pixel coordinate system
+translational displacement
+fine adjustment process
+power supply switch
+direct memory access
+main control unit
+digital video stream
+optical flow feature
+image recognition processing
+preliminary test result
+binary vascular mask
+intelligent mobile terminal
+single chip computer
+teaching quality evaluation
+ticket selling system
+inventory management module
+data entry device
+entrance guard
+voice signal analysis
+receiving environment image
+protection motivation theory
+intravenous authentication part
+stored face image
+recognizes facial expression
+authentication template db
+motor fixing box
+inclined upper part
+processing unit recognizes
+face position area
+finish identification work
+preset quality label
+identifying unit calculates
+deletes face detection
+artificial intelligence generated
+divider type card
+establish bluetooth communication
+individual feature information
+recording physiological data
+face posture recognition
+image data
+sony television sets
+image output unit
+clock event mode
+closing controlling method
+high working efficiency
+computing operation support
+water temperature information
+surface texture coding
+thermal infrared camera
+important data domain
+iteration calculation process
+distance reminding ability
+distillation learning process
+short video manner
+supervised learning method
+hand-held judgment module
+performing gray-scale normalization
+establishing src model
+ties identification information
+video network terminal
+classify hidden variables
+lower parallel edge
+acne detection result
+eye iris part
+matched auxiliary structure
+id number information
+data display interface
+language navigation module
+inputted video data
+longest time period
+repairing work site
+mobilenet neural networks
+content analysis device
+exercise data acquisitor
+free-access social networking
+card reader device
+collecting device based
+situation mode selection
+area counting unit
+bp neural network
+alignment structures reach
+final comparison score
+determines indictor components
+remove background noise
+ibp code pattern
+multiple stress states
+classifying human face
+identify target users
+class performance evaluation
+pre-established mapping table
+scene graph representation
+centralized waiting user
+position adjustment amount
+improving recognition speed
+physical image data
+stored facial features
+sends alarm signal
+involves checking classifier
+complex manufacturing environment
+facial features positioning
+babys facial information
+face recognizing apparatus
+multiple adjacent ranges
+analyzing reflected light
+target location information
+identification feature data
+facial recognition algorithms
+processing emotion recognition
+identification data source
+initialization model parameter
+voice-text display code
+analyzing persons face
+playing biologic identification
+control base box
+infrared led group
+dismissing low-quality fingerprints
+image normalization processes
+security scan process
+heat abstractor hole
+confidence coefficient degree
+face feature attribute
+final authentication result
+reference feature vector
+reference key point
+mode selecting module
+multimedia interactive field
+main fluted disk
+light guide element
+fusion learning model
+thread cylinder close
+source face image
+applying device experience
+style classification network
+english pronunciation based
+to-be-inquired object index
+clothes hanging rod
+channel impulse ignition
+feature-value calculation unit
+multi-scale linear difference
+front camera mechanism
+inlet endfaces forming
+saves large amount
+application program reaches
+high-quality face image
+target traffic intersection
+provide automatic detection
+teaching management method
+group repetition rate
+target positive sample
+protection device easy
+inducing pose change
+invalidated image data
+bilateral hybrid filtering
+storage computing function
+face identifying panel
+vehicle information database
+facial recognition unit
+tracking function module
+feature information collection
+target weak classifier
+performing multiple functions
+general mobile telephone
+processing approval part
+scale factor determined
+received sample image
+color corresponds
+early warning response
+multiple cabinet doors
+data sharing method
+human image
+online work flow
+control command signal
+face section model
+multiple creation process
+steel protective layer
+video call counterpart
+video monitoring data
+access card identifier
+gaze focus points
+loading changed data
+target learning model
+management center module
+signal measuring device
+card holder read
+skin texture map
+library-concentrated face model
+monitoring physical characteristics
+password verification process
+skin conduction signal
+advertisement switching module
+involves detecting region
+algorithm identifying parameter
+two-dimensional feature point
+rfid desktop worktable
+monitoring camera area
+safe city module
+self-service sale device
+work process unit
+comparison failure rate
+wireless service providers
+rgb mode data
+map neural networks
+rough outline point
+to-be-detected sample set
+image eye separation
+information human faces
+facilitate spatial recognition
+multi-frame video frame
+intelligent campus construction
+extracting image characteristic
+image classification result
+avoid dust entering
+respective iris features
+man-machine interaction component
+video frame rate
+verification sample set
+all-in-one machine realizes
+side wall close
+discrete cosine transform
+searching physical address
+hairstyle classification model
+method comprises inputting
+suction unit comprises
+bullet management work
+action posture accuracy
+recognizes facial features
+synthetic training images
+passive driver identification
+acquired information set
+management mobile terminal
+unidentified face picture
+screening delusion rate
+information display screen
+forming predetermined profile
+extracts eigen vectors
+eye condition related
+preset processing process
+database management server
+face analysis operation
+shape analysis algorithm
+identifying individuals face
+wider application range
+manual legal owner
+biometric identification field
+present number-picking machine
+performs correcting operation
+predicting beautiful based
+directional line connection
+infrared sensor probe
+test subjects face
+collecting video images
+spare battery group
+line positive integer
+generative confrontation network
+face detected on-line
+hyperspectral feature space
+detection unit determining
+calculate euclidean distance
+continuously rotate horizontally
+iris identification machine
+human face identifying
+display module comprises
+combined mounting frame
+provide handling clue
+fuzzy processing operation
+push rod motor
+membership non-negative matrix
+face storage server
+optical fiber network
+multiple pixel blocks
+network automatic learning
+standard identity information
+multi-characteristic relation mode
+uv led unit
+faces match based
+method involves recording
+logical addition unit
+performing comprehensive analysis
+open access control
+secondary trigger area
+electroluminescent display device
+users facial information
+feature selector modules
+trailing personnel exists
+mobile operating terminal
+present viewing area
+age recognition result
+object candidate database
+finishing face identification
+valence-arousal two-dimensional model
+point position standard
+normal display mode
+recognizing object based
+platform generates 3-dimensional
+correlating bluetooth logo
+speech recognition device
+2d image generation
+face identification determination
+low light conditions
+characteristic point coordinate
+face sub-image sequence
+life detecting module
+encrypted request message
+computer program stored
+supplying electric energy
+overlapping angle range
+multi-classifier fusion process
+outdoor construction scenes
+face position based
+voice characteristic signal
+third-level multi-image information
+two-dimensional feature vector
+front windshield area
+collation unit selects
+processing unit divides
+control module starts
+facial recognition service
+minimal residual errors
+distributed computing frame
+protecting personal privacy
+recognizing face reflected
+light supplementing operation
+two-dimensional illumination direction
+key face image
+artificial identification efficiency
+skin texture feature
+goods allocation device
+color coordinate index
+facing intelligent site
+feature points
+mall entrance
+aggregated error differences
+flash light source
+false accept rate
+method involves projecting
+glass key point
+pre-trained generation model
+automatic drawing device
+gesture recognition based
+involves sending alarm
+causing media content
+identifying gender
+power index factor
+query results derived
+facial identification
+cell collection point
+largest inter-class dispersion
+recognizing biometric information
+head posture direction
+employee handbook confirmation
+generate cracking deformation
+evaluating advertisement effects
+local police office
+locating module
+social relation scale
+arrives passenger floor
+multi-angle face image
+rotation positive direction
+fingerprint identification component
+gear conveyor belt
+utility model identifies
+auxiliary make-up system
+reference color band
+access entering person
+closed eye state
+fusing human faces-attribute
+led lamp bodies
+radiation conversion block
+face rectangular position
+density evolution algorithm
+deriving reflectance function
+background processing device
+involves determining vector
+remaining battery power
+recognized face portions
+module state database
+data conversion module
+multi-class classification part
+remote registering party
+detecting module comprises
+front face adhered
+cosine distance constraint
+coordinate mapping process
+preset feature score
+combining dynamic features
+data machine room
+image data scan
+film grain generator
+public security center
+portrait picture video
+forward propagation calculation
+normal business hours
+face verification system
+hypothesis regions
+input images comprising
+positive refractive power
+optimization classifier model
+refractive glass moves
+predicting speech content
+facial vein information
+driving module drives
+image classification apparatus
+security retrieval process
+high cost performance
+good appearance effect
+dual photography application
+elastic extension rod
+assisting sale promotion
+bayesian objective function
+intra personal variations
+continuous frame atlas
+fingerprint induction electrode
+holographic projection device
+template storing unit
+refractive index higher
+facial image analysis
+projection integral calculation
+displays music videos
+system based
+ophthalmic glasses
+computer device based
+objective function configured
+social semantic category
+words file management
+largest matching similarity
+evaluation index result
+practical interval distance
+external sound loudspeaker
+preset combination method
+processing unit forms
+system update module
+optimal coding result
+performing opening process
+place recognition device
+three-dimensional texture feature
+information reading unit
+current personality data
+industrial configuration screen
+induce reflective action
+visual feature extractor
+air inlet end
+obtain standard size
+determines movement direction
+driver viewing area
+assembled mobile phone
+controlling bailment inventory
+learning part learns
+mapping target objects
+human body frame
+identification system module
+android main board
+negative focal power
+customer hierarchy photographed
+front surface
+recommending designated driving
+face collection device
+password input frame
+crime alarming process
+fingerprint identifying unit
+facial pose scores
+discrete wavelet transform
+partial translation deformation
+photographed client image
+two-dimensional picture based
+face recognition program
+characteristic generation unit
+adds data correction
+vehicle event recorder
+spoken audio signals
+multi-dimensional vectorization data
+correct steps involved
+stylus detection sensor
+voice prompt system
+predicted target face
+embedding feature distance
+key response vector
+high resolution ratio
+mask classification model
+input checking information
+takeaway order request
+dynamic verification flag
+self-help money-collecting efficiency
+system working state
+dust detection device
+to-b-tested face image
+multiple convolution operation
+targeted advertisement based
+semiconductor refrigerating block
+control command data
+light measurement module
+middle control device
+image sensing element
+display interface unit
+likeness detection image
+computer-implemented customizing method
+calculating residual error
+accident occurrence prediction
+generated n-dimensional vector
+automatic marking machine
+query alarm record
+standard attitude parameter
+locating sound source
+danger judging module
+measuring camera head
+storing school student
+lower frequency texture
+three-dimensional posture coordinate
+captured encoding information
+image prediction information
+traditional identification instrument
+to-be-trained neural network
+separately arranging detectors
+near-infrared led lights
+displaying protection reminding
+pre-trained generation network
+sleeve plate
+restriction partial space
+light receiving device
+facial data frame
+method involves decoding
+classification model training
+vehicle operation process
+target object information
+multiple ethnicity identifications
+obtain registration data
+multiple network terminals
+side writing model
+reduce quantization error
+associating incident information
+working time statistics
+face identification devices
+final face region
+linear back projection
+upper surface conveyed
+multi training images
+candidate face area
+displayed promotional content
+level neural network
+vehicle identification box
+calculating rotation angle
+facial-shaped variation information
+target portrait picture
+security management device
+convolution processing layer
+aging change characteristic
+file printer outlet
+joint 64-dimensional feature
+signal output end
+size scale information
+limiting fastener matching
+time sequential images
+digital laser scanner
+manual image conversion
+guide supporting sleeve
+mobile phone body
+cu management module
+matching character image
+eyeball image data
+multiple people share
+face sign module
+image data and/or
+maximum supported capacity
+infrared light irradiated
+feature vector -information
+central loss function
+social networking histories
+automatic speaker diarization
+education management station
+face identification tag
+target payment account
+automatically detected
+improves service efficiency
+face recognition box
+eliminates dew formation
+driven character based
+partial facial image
+panoramic sound information
+movement detecting module
+satisfies preset requirements
+infrared emitting unit
+sample series number
+intelligent access control
+storing transaction information
+preset reducing size
+single-frame processing operation
+data source
+workflow module confirming
+tongue coating images
+base table support
+face feature extractor
+telescopic fine tuning
+dimensional genetic model
+communication module communicates
+detecting facial expressions
+target detection results
+electronic class board
+radar scanning area
+scoring mechanism comprises
+archive storage module
+fingerprint contact screen
+important feature vectors
+target video sequence
+multifunctional integrated machine
+skin state analysis
+feature-generating backbone includes
+l-softmax loss function
+tracing human body
+touch screen inputs
+transmission assembly
+generates matching information
+storage device based
+library card owner
+gpu memory core
+display portion faces
+target setting information
+utility model introduces
+id recognizing device
+human quality estimation
+automated identity confirmation
+gps patrol robot
+image to-be detected
+main unit connected
+building information model
+environment friendly prolongs
+controller output command
+real-time face detection
+side profile view
+main controller controls
+mirror frame
+wireless network module
+pressure sensor connected
+biometric verification system
+performing machine training
+illegal medical practitioner
+damping rotary shaft
+augmenting photographs based
+block multiplication algorithm
+interface adjusting module
+perform comparative analysis
+dimensional image data
+reference face area
+invitation quick response
+good protection effect
+acquiring depth information
+safe dressing requirement
+expanded storage capacity
+present invention proposes
+forensic identification application
+detected sample points
+lowest moving speed
+strontium dioxide index
+semi-spherical glass cover
+make screen rotation
+received judging result
+histogram characteristic vector
+alarm control unit
+three-dimensional coordinate parameter
+multiple specific values
+human body analysis
+collation score showing
+current camera picture
+forming location convenient
+free end facing
+providing autonomous network
+biometric receiver device
+sponge holding pad
+fast fingerprint identification
+electronic locking part
+connecting classification network
+visually impaired persons
+modified target position
+mainstream ethnic classifications
+reach primary effect
+actual test result
+preventing privacy leakage
+euclidean distance operation
+large dust accumulated
+law enforcement scene
+image input order
+template determination unit
+three-dimensional authentication method
+low frequency components
+facial expression category
+perform process actions
+pattern match process
+four-channel grayscale image
+computer vision technologies
+squeezenet network model
+single-chip machine connected
+predetermined combining rule
+obtain evaluation parameters
+multiple feature vectors
+stored biometric data
+providing safe illumination
+sends additionally acknowledgment
+histogram equalization operations
+unregistered natural persons
+time playing process
+navigation sensor comprises
+lifting adjusting component
+central control desk
+enforcing correspondence constraint
+subsequent case analysis
+identified facial feature
+shape identifying sub-unit
+feature identification process
+recognizing face wearing
+image-capturing unit captures
+region proposal network
+user configuration data
+threshold-value calculation unit
+band energy ratio
+background removal operation
+effectively avoids infection
+visual media data
+preset color space
+supporting plate cavity
+image distribution difference
+converting rotating matrix
+flat layer
+multi-layer skin model
+current information matches
+specific person face
+pig face image
+recognizing user input
+check system comprises
+checking system receives
+storing matching result
+specific user based
+camera monitoring systems
+dram storing chip
+shape presentation unit
+state characteristic data
+facial expression normalization
+portrait comparison server
+reference templates provided
+cloud server connection
+local feature groups
+human-computer interactive terminal
+information transmission distance
+narrow angle image
+pre- established correspondence
+vertical axis direction
+car taking person
+audio output circuit
+correlate facial expressions
+detection result closer
+performing biometric authentication
+customer information required
+multi-channel control module
+breast tumor image
+multiple candidate signals
+display unit outputs
+securing work environment
+multi-dimensional people identification
+tensor flow interface
+module configuration settings
+distance measuring device
+future file management
+method comprises controlling
+facial feature extraction
+age loss function
+human pose estimation
+calculate cross-entropy loss
+gait recognition technology
+upper edge line
+real number domain
+card front cover
+infrared thermal image
+obtain feature similarity
+image management apparatus
+semantic segmentation network
+image monitoring screen
+depth network model
+fine tuning training
+back skid-proof cover
+high definition camera
+perform sorting process
+power generation mechanisms
+rear background model
+control home networking
+intelligent information processing
+cloud computing comprises
+airport screening checkpoint
+blue light filter
+detect brightness change
+connecting ring drives
+authentication police information
+optimal iris image
+feature extraction region
+facial liveness detection
+threshold segmentation process
+simple integral structure
+face orientation module
+posture angle information
+image data representing
+walking posture pictures
+sd interface chip
+input data set
+schematic block diagram
+trained classification feature
+loss function number
+trained network parameter
+speech separation model
+short circuit layer
+remote verification process
+prison management system
+biological authentication method
+stored voice model
+small extension motor
+character biological sign
+comprehensive learning effect
+determine candidate frames
+javascript object notation
+generating virtual expressions
+optimizing searching operation
+high pass filtering
+registered person data
+hair forming defects
+head-shoulder detection result
+processing delay command
+predetermined specification
+non-front face image
+class label uncertainty
+model training field
+portraits folder exists
+resultant image matrix
+non-working staff enters
+human head model
+two-step summation operation
+optimal coefficient matrix
+skeletal pose estimation
+m-th frame image
+candidate selector connected
+real-time polygraph function
+remote control module
+customer service staff
+deep metric learning
+image overlapping area
+individual identification information
+class probability matrix
+target extraction unit
+facial test officer
+correction object region
+position transformation device
+individuals biological information
+photographed face characteristics
+encoding coefficient alpha
+dimensional data set
+rapid face recognition
+signal transmission unit
+preset alarm condition
+bus dispatching system
+vehicle-mounted device comprises
+clamping mechanism comprises
+prioritizing process based
+limiting clamping block
+offline recognition stage
+involves receiving images
+preset time length
+identifying application program
+fingerprint collection stamp
+feature extraction results
+hold cartoon row
+two-dimensional reference point
+detecting fraudulent act
+sex character module
+personal history data
+eating foreign objects
+initial opponent network
+gray occurrence matrix
+content acquisition device
+main station system
+upper body region
+involves calculating imparting
+access apn gateway
+cascade-based model structure
+two-virtual eyeball dimension
+detect eye position
+classified forecasting result
+identifying classification test
+attested person corresponds
+mm-range and/or cm-range
+standard texture feature
+pre-built authority label
+action parameter
+expression pose map
+generating facial animation
+calculates estimated position
+pointwise convolutional block
+weighting fusion process
+ray disposal technique
+dynamic adjustment method
+human body and/or
+recognition object image
+persons side face
+student night dormitory-back
+classification processing unit
+object to-be evaluated
+detects body unit
+confirming big data
+predetermined sample size
+eyeglass-lens selection system
+guide sliding rail
+object image selected
+detecting relative position
+color identifying module
+three-dimensional coordinate system
+static gait characteristic
+color analysis module
+key point sequence
+texture extracting process
+opposite mounting grooves
+security image blocks
+bad anti-interference ability
+business network point
+shooting facial pictures
+face location information
+fall warning message
+manipulated initial image
+scanning unit corresponds
+records three-dimensional information
+realizing content search
+campus dormitory management
+shop shelf quantity
+loss generator generates
+involves declaring positions
+blurred face image
+middle horizontal position
+illumination direction information
+centralized three-dimensional coordinate
+input module inputs
+structured light patterns
+combining unit combining
+student drowning accident
+head motion estimation
+identifying expression intensity
+similarity calculation process
+identification card
+fuzzy comparison procedure
+rainwater collecting tank
+closes time period
+face image to-be-searched
+thermally distinguishable spot
+light source avoids
+red channel image
+face remaining data
+places index finger
+long circular hole
+managing unit transmits
+evaluation set data
+content matching area
+deep network training
+information collecting unit
+trajectory superimposition unit
+management client end
+fusion feature layer
+touch sensitive displays
+odour removing device
+statistical form model
+tracking key point
+photographs facial image
+face pose information
+feature data set
+targeted image data
+article taking port
+facial feature values
+face file database
+face authentication results
+data interaction interface
+performing infrared scanning
+authentication verification device
+health information report
+lighting module installed
+red green bblue
+atomizing spraying head
+locating pupil center
+ercnn network model
+board shaped body
+calculated misidentification degree
+azimuth identification information
+collected control information
+provide interactive graphics
+eye aspect ratio
+human faces-fake function
+fingerprint head device
+high frequency part
+control circuit board
+skipping rope testing
+cosine distance calculation
+meshing shaft
+side face surface
+repetition length matrix
+verification passing information
+feature fusion frame
+preset normative database
+classifying unit classifies
+performing multi-target face
+spin wheel structure
+face recognition algorithm
+biological feature parameter
+picture feature extractor
+operates imaging unit
+recognition cloud server
+images listening/viewing person
+code searching device
+data collection unit
+storing identification information
+hand detection region
+silicon nitride layer
+artificial neural networks
+main characteristic point
+infrared sensor switch
+score average total
+preset behavior template
+animation portrait picture
+housekeeping service unit
+fingerprint sensing circuit
+neural network structure
+payment device based
+obscuring periphery part
+lighting reflection points
+status information
+collected visible light
+arrange related service
+performing automated categorization
+current time information
+person face area
+intelligent security based
+single-chip microcomputer msp430
+performing real-time reasoning
+parking lot
+performing infrared imaging
+multimedia resource data
+shoe shelf unit
+user identification application
+neural computing stick
+comparing random code
+gray level information
+space-time incidence relation
+initial network model
+abstracting image characteristics
+client self-loan process
+identified lane information
+maximum probability principle
+form strong classifier
+hybrid attention mechanism
+main body searches
+retrieve user identifier
+air pressure sensor
+vertical scale factor
+earlier time period
+text information transmitted
+news interview draft
+seal drive motor
+information collecting module
+roughness/feature store module
+identified media content
+message content includes
+clamping hole matched
+resolve objective function
+wearable detection element
+face recognition adjusting
+feature extraction data
+current image frames
+noise reduction module
+storing registration information
+cellphone porn picture
+characteristic information extracted
+human face acquired
+classification dustbin signal
+previously registered persons
+recognizing matching phenomenon
+unitized pixel deviation
+data access module
+pseudo-sketch generation method
+confidence scores determined
+ticket center database
+stores body action
+advertisement push module
+searching face pattern
+property management area
+intelligent touch screen
+related user data
+state identification method
+security inspection channel
+business card appeared
+bottom end surface
+viewable area comprises
+camera identification modules
+generation part generates
+image monitoring equipment
+constructed normalized dictionary
+portrait matching module
+training multiple pairs
+face recognition station
+obtain gender identification
+information extraction platform
+space histogram information
+greater residual stress
+vocal print characteristic
+limiting pin passes
+uniquely identify person
+backdoor standard based
+wire passing hole
+overrun learning machine
+performs three-dimensional modeling
+digital signal processor
+method involves preprocessing
+comparison based
+rapidly detecting face
+edge feature vector
+picture collecting card
+face selection part
+time series information
+form four-element matrix
+input devices repeatedly
+voice interactive microphone
+pixel dividing module
+filter switching device
+perform multi-feature fusion
+public network structure
+identity recognition method
+secondary id information
+dynamic video portrait
+feature point
+primary images generated
+collecting control command
+partial data sharing
+predetermined affiliated store
+characteristic comparison module
+auditing purchasing safety
+perception feature-value based
+identity card holder
+final feature point
+payment processing server
+police criminal information
+data comparing module
+sun-shading component
+monitoring abnormal behaviors
+computer program instructions
+side end surface
+age-sensitive facial features
+prevent cash/check withdrawal
+optical lens module
+optimal identification result
+processor readable codes
+combined fingerprint recognition
+preventing false fingerprint
+detecting control operation
+extracted finger domain
+third-party device linkage
+utilizing second-level network
+binary search method
+cascaded regression part
+authentication attempt initiated
+video stream data
+machine readable memory
+pyro-electric infrared sensor
+intelligent vending terminal
+realizing automatic judging
+mouth corner point
+multi-triangle statistics descriptions
+data generating module
+line driving circuit
+spatial pose status
+suspected cheating behaviors
+current state information
+personal identification information
+chin characteristic information
+human body postures
+poster device
+complex feature vector
+image collecting card
+background management server
+industrial control host
+zoom ratio property
+bioidentification camera module
+current reference model
+low hierarchical features
+dynamic random code
+identifying age feature
+adjusting branch chain
+user paying attention
+mark characteristic point
+facial feature vector
+electrifying switching apparatus
+yaw angle yaw
+movable rod moves
+subsequent switching operation
+high relevance factor
+multiple audio signals
+initializing gaussian noise
+stay duration threshold
+reference image data
+digital image corpora
+light shielding cover
+facial analysis device
+method involves adopting
+mobile communication module
+predefined movement threshold
+brush face angle
+bi-direction regulating information
+intelligent visual perception
+decision tree classifier
+camera shooting bracket
+master control server
+involves controlling motor
+enabling enhanced security
+involves generating recommendation
+training evaluation unit
+current image picture
+preset interval time
+intelligent recommendation subsystem
+corner portion overlapped
+predefined temperature range
+picture analysis module
+processing human faces
+video management module
+guest intelligent system
+social media post
+object recognition techniques
+monitoring control module
+main component characteristic
+virtual collaboration environment
+touch sensitive surface
+medical diagnosis applications
+bind cell phone
+bluetooth nbiot device
+side view photographs
+identifying relative ratio
+non-living human face
+space-time feature network
+smart mirror device
+region enlargement module
+involves determining likelihood
+input/output control part
+line segment showing
+facial recognition failure
+moving magnetic block
+live-body detection technology
+source domain image
+obtain pool result
+completed face recognition
+cipher text comparison
+optimize neural network
+image determination machine
+successful face recognition
+ellipse short shaft
+type neural network
+key points information
+status modification request
+communication module sends
+low recognition rate
+learning dictionary data
+intelligent identification circuit
+video collection module
+face recognition processor
+additional classification requests
+facial expression classifier
+front human face
+pixel cluster linked
+providing reference-model-based modification
+feature analysis device
+data processing operation
+user opens shutter
+selecting unit selects
+perform operation counseling
+facial expression picture
+synthetic images define
+vein identification device
+brain anatomy image
+locus tracing module
+extracted feature data
+edge detection result
+secondary fluted disk
+transmitting recognized information
+making electronic transactions
+image collection device
+eyeglass locating plane
+face brushing device
+sending unlocking information
+storing received data
+user management platform
+recognition reference plane
+user terminal connected
+target parameters meet
+set body area
+generating digital person
+annular convex edge
+difference constraint model
+depth study module
+electronic door lock
+feature point group
+real-time test result
+transact physical card
+positioning rod
+forms insulating film
+combining hairstyle characteristic
+informative screen
+receiving video information
+line collecting plan
+video acquiring module
+deep learning involves
+iris enrollment data
+confirming users identity
+face image file
+body posture information
+hr image set
+quality distribution rule
+square cylinder seat
+bottom end position
+shading mechanism comprises
+user registration operation
+cycle neural network
+preset effect material
+virtual device object
+reversible discrete degree
+method involves distilling
+charge-coupled device camera
+extracted image characteristic
+complex detection operation
+determine potential identity
+increase image quality
+pedestrian recognition technology
+consumer face data
+recognize face information
+double-eye centre line
+personnel management equipment
+obtain size ratio
+multiple face images
+area energy extraction
+encrypted interactive method
+obtain characteristic information
+determining large amount
+subtle muscle vibrations
+wheel partitioned sample
+cutting-out starting position
+store captured data
+skin selection data
+self-timer command input
+to-be recognized person
+temperature control box
+anti-scraping water film
+unborn animal based
+voice identification module
+target detection model
+customer gazes based
+gradient based images
+data transmission line
+advertisement delivery effect
+relative positional relationship
+iris characteristic information
+binocular collecting system
+panoramic monitor camera
+infrared iris images
+performs recognition processing
+trained u-net network
+skin analyzing device
+comparing garment information
+object facing camera
+authentication identification system
+individual identification module
+past criminal activity
+detected abnormal information
+optimal feature space
+garments data set
+display emotion type
+convolutional layer contained
+underbody support attachment
+involves locking character
+water supply chamber
+preset identification position
+real-time environment image
+long working distance
+predetermined point coordinate
+gesture sensing module
+fingerprint verification process
+meets all-weather mobile
+eliminate background redundancy
+multiple confidence maps
+mounting machine seat
+similarity evaluation index
+active illumination provided
+data transmission bandwidth
+viewed images displayed
+man-machine interactive module
+face contour point
+conference basic information
+user defined identity
+upload student photos
+spring groove embedded
+virtual test sample
+fingerprint recognition groove
+training expression classifier
+character information related
+passage prohibition signal
+compares feature vector
+medical care request
+awakening degree type
+operation unit cross-compares
+received image sequence
+t-best sample number
+alarm information send
+preset shape network
+super-resolution network
+led electric torch
+image reading mechanism
+method involves starting
+video decoding unit
+involves comparing output
+preset risk threshold
+secondary display screen
+human face collector
+deflecting back propagation
+environment monitoring data
+structure light field
+1-10 point scale
+fusion iris recognition
+human emotional state
+gradient direction histogram
+matching image data
+video frame processing
+higher intelligent degree
+designing component classifier
+deep convolution model
+neural processing unit
+statistical backup memory
+preset matching threshold
+swinging component connected
+wireless mobile terminal
+door card recognizer
+completing learning process
+reinforcing rib plate
+spiral updating position
+network model based
+performing multi-directional identification
+human faces controlling
+adjust sound mode
+light ray range
+infrared sensor detects
+dividing error rate
+error report instruction
+image file format
+view angle mounted
+password entry
+deep-res-bi-lstm network number
+send alarm signal
+multiple interval sections
+physical movement characteristics
+automatic photographing process
+controls location information
+face template image
+face contraband based
+gaussian noise equation
+processed data obtained
+local receiving domain
+unlock processing operation
+source detection result
+set time interval
+air inlet channel
+image recognition process
+enhanced training set
+multiple light-emitting areas
+voice call request
+monitoring object area
+t-shaped rod body
+classifies presented image
+sixty degree rotation
+trigger level outputs
+marking sensitive personnel
+accepts multiple sources
+face characteristic mark
+content receiving device
+pre-defined maximum quantity
+state features data
+head pose annotation
+expression sequence fragments
+information input unit
+identifying error identification
+moving device set
+enrolment transfer function
+card hitting threshold
+target pairing groups
+original face database
+public safety identification
+general purpose input/output
+intelligent money box
+album displaying method
+two-dimensional blank image
+recognizing facial attributes
+driving circuit layer
+tracking facial features
+facilitating facial recognition
+personnel track database
+vacuum suction disc
+lower offset angle
+hairstyle display effect
+initial countermeasure image
+three-dimension laser scanner
+filtered feature sequence
+directly invoking worker
+spatial deviation angle
+biological image information
+reference expression collected
+sample face photo
+comparison morphological analysis
+human face template
+human face camera
+target candidate area
+front camera incorporated
+adjusting confidence threshold
+dimensional location
+set-top box comprises
+recognition neural network
+portrait identifying camera
+lip part data
+programmed electronic processor
+collected audio information
+card reading groove
+selective activation method
+outer side wall
+input initial condition
+face alignment model
+output fatigue degree
+adjusting detected object
+model trained based
+face recognition subsystem
+determining characterization parameter
+face registration database
+human face occlusion
+preset algorithm mode
+rotating pin column
+display control module
+adding predetermined transformation
+scanner scanning period
+micro expression identification
+prominent facial features
+automatic multi-time shoot
+collected electroencephalogram data
+facial attribute tagging
+industrial control shell
+remaining pixel cluster
+sending notification information
+visitor registration time
+select multiple kinds
+preset application scene
+parent application terminal
+hair style recommendation
+roughly estimated area
+interlaced mode camera
+utility model belongs
+voltage power supply
+encrypted document information
+identification device system
+automatic correction processing
+automatic focusing camera
+read face image
+signal transmitting device
+data output end
+collected character photos
+object recognition esp
+convolutional feature layers
+target picking task
+front limit position
+facial identification device
+large equivalence degree
+image stitching controller
+driving bevel gear
+open working area
+voice recognition unit
+increase concealment performance
+online warning method
+acquiring image data
+local access unit
+perform feature comparison
+visible-spectrum face images
+third-party application platform
+sound pickup end
+facial image acquisition
+involves skipping detection
+drainage device capable
+principle component analysis
+preset behavior rules
+face confidence level
+image transmitting method
+determining pattern characteristic
+highest detection rate
+main code stream
+house purchase transaction
+basic unit block
+infrared led lamp
+front-end device comprises
+image collecting part
+sparse reconstruction coefficient
+final face features
+financial product included
+front face part
+eyelid detection unit
+authentication object based
+face texture information
+obtaining displacement direction
+initiating face recognition
+captured pictures uploaded
+field self-learning comprises
+parameter generating sources
+modifies area indicative
+image display direction
+face candidate frame
+on-line community network
+person authentication unit
+gait recognition function
+avoiding bringing trouble
+reference image set
+light reflecting device
+multiple certification systems
+performing poisson fusion
+potential data characteristics
+id result signal
+tunnel construction process
+wearing type bracelet
+small-sample feature comparison
+consultation control server
+outputs standard output
+carbon monoxide content
+active shape process
+viewing angle parameter
+convolution stack module
+to-be-photographed object exists
+lifting device includes
+providing live audio/video
+standard video edge
+tablet personal computer
+extracting feature points
+grid-like position map
+preset mapping rule
+non-real time shooting
+executing matching identification
+facial recognition routine
+authentication photography system
+space query operation
+high quality camera
+local variance map
+managing record data
+detect object regions
+remote monitoring method
+upper housing features
+split screen mode
+target operation mode
+image reconstruction error
+palm image information
+over-sampling and/or under-sampling
+transmits data quality
+eigenvalue problem combined
+biometric recognition applications
+performing biometric recognition
+feature extracting network
+automatically controlling access
+initial planed path
+realizing tracking process
+multi-small rectangular frame
+information correcting module
+facenet neural network
+side frame geometry
+pre-stored standard data
+pre-set communication application
+establishing management terminal
+code stream device
+infant monitoring apparatus
+video monitoring field
+image input variables
+video receiver terminal
+waste collecting box
+shooting real-time video
+module monitoring unit
+infrared beam element
+thermal print paper
+pattern transparent areas
+book management device
+face effective information
+nearest neighbor method
+infrared light image
+personal secret code
+rapid response time
+geographic position layout
+automatic collecting information
+feature extraction output
+video collecting head
+stored payment method
+preset receiving end
+includes illuminated plate
+method involves picking
+key point positions
+central control room
+selling goods shelf
+micro-control unit connected
+body image information
+enhanced feature vector
+reference information utilized
+receives alarm information
+evaluate recognizing process
+plays voice reminders
+identify image similar
+appointed map area
+clamping claw
+analyzed image file
+designated pay area
+constancy divergence matrix
+virtual fence formed
+identification terminal device
+encrypted private data
+uniformly distributed circumferentially
+adjusting rod
+current identification period
+independent sub-convolutional networks
+library-concentrated face curve
+operator camera cylinder
+determining construction area
+histogram equalization treatment
+multi-point touch display
+face analysis features
+user self-transacting business
+frame difference method
+obtain data source
+rumor index reflecting
+tracking positioning camera
+sending bandage occlusion
+optical sensor set
+receives biometric features
+separate security check
+biometry involves providing
+obtain refined estimate
+human detect information
+mounting space surrounded
+micro-expression calculation method
+dimensional surface reconstruction
+predetermined ratio threshold
+upper body area
+eyeball focus point
+postal indicia detection
+involves carrying
+unit regions representing
+face recognition controller
+fingerprint recognition system
+maximum extent ensures
+similarity adjacency matrix
+body detecting method
+park area data
+frame head images
+evaluation key frames
+apply facial recognition
+shooting tendency factor
+instruction processing module
+color texture characteristic
+payment rejection instruction
+material consumption cabinet
+face identification data
+spoofing determining unit
+pronunciation correction strategy
+access control processor
+emoticon image set
+account identification device
+living body based
+target service interface
+pre-established five-official material
+recognizing hand-raising behavior
+first-type face attribute
+image enhancement processing
+evaluates biometric information
+describe facial expressions
+color distribution characteristics
+involves photographing face
+similarity evaluation unit
+mirror simulation apparatus
+three-dimensional pattern-match apparatus
+mel spectrum based
+gait profile sequence
+element entry message
+optimization stop condition
+accelerate training speed
+color spectrum position
+curation engine unit
+mark judging module
+optical axis misalignment
+method involves sampling
+computer-generated moveable object
+logarithmic spiral widens
+target display mode
+face identifying sensor
+involves providing processor
+selected gauge length
+unique authorization code
+customer personal information
+multi-camera user environment
+access events corresponds
+manages sampling process
+retail environment
+content evaluation information
+processor unit receives
+detecting component comprises
+solid-state imaging device
+preset image information
+perform shopping operation
+identity authentication program
+camera response model
+eye feature parameter
+data calculating unit
+hr face images
+multiple triangular areas
+dynamic time feature
+lower rotating shaft
+heat dissipation effect
+forming parallel light
+background managing system
+calculating correspondence degree
+face performance video
+unmanned plane supporting
+cloud server module
+proximity threshold defined
+face comparison score
+sdram image memory
+optimized image quality
+target location signal
+convolutional pooling layer
+characteristic extraction process
+attendance checking efficiency
+infrared induction area
+personalized media information
+preset defect conditions
+predefined key point
+distributing picture data
+kunze world algorithm
+contour key points
+pre-constructed cnn network
+man-machine interaction method
+entrance permitter registered
+changing face image
+current facial information
+comprehensive management module
+multi-beam scattered light
+multimodal input data
+single-piece planar images
+auto zoom system
+alientek atk-ov2640 camera
+service data comprises
+non-living video attack
+performing parameter exchange
+illuminated face data
+attendance recognition system
+speaking state identification
+cross entropy loss
+users face situated
+method involves arraying
+specific application program
+human face length
+non-private human face
+receive feedback information
+area characteristic information
+wireless transmit/receive unit
+device disconnection request
+control switch controls
+login facial image
+classification hypothesis sequence
+face area located
+transaction bidding process
+reserving professional guidance
+ball nut seat
+dictionary information stored
+sample global class
+multi-pose human face
+relevant feature points
+dimensional depth-character representations
+image data inputted
+brightness equalization process
+split edge calculator
+applying fourier transformation
+speech processing function
+generating surface model
+obtain texture information
+sensed visible light
+floating-point numeric scalar
+position-coordinate detection part
+edge detection operation
+face recognition request
+fixed vertical plate
+start play instruction
+processed face image
+hollow column-shaped structure
+counting staff information
+obtaining analysis parameter
+work display screen
+telephone call based
+card information detected
+clock-in machine includes
+communication transmission modes
+position adjusting device
+automatic driving automobile
+snapshot image table
+real-time interaction system
+personal identity archive
+random motion instruction
+adjacent scene label
+gaussian mixture models
+storage unit based
+residual network resnet-152
+ethnic data sets
+multiple digital images
+performing object detection
+joint estimation process
+weighted sex predictive
+face wearing mask
+multiple sub- blocks
+emitting system transmits
+device communication module
+sight test symbol
+palm face photo
+speech clear degree
+controlling camera capturing
+preset selection strategy
+pet dog images
+external information systems
+self-motion drawing device
+front side wall
+perform fusion calculation
+illumination diversity factor
+local gray model
+preset statistical period
+locate feature points
+instrument connecting terminal
+visible light band
+outputting standard output
+outer surface periphery
+feature extraction algorithms
+watching tv program
+blue color gamut
+random authentication behavior
+defined personnel sub-database
+image rotation processing
+wireless signal device
+attention relationship characteristic
+space attention mechanism
+three-dimensional characteristic point
+upper part
+power line loss
+target face characteristics
+notification message informing
+entering face information
+reservation register application
+video image face
+fingerprint recognition precision
+face information includes
+face recognition mainframe
+dynamic link model
+height adjusting irradiation
+social network site
+putter head motion
+unmanned store system
+memory storage unit
+image pick-up component
+status interface related
+led light-emitting modules
+picture human faces
+power supply mechanism
+detecting human temperature
+external protective cover
+biometric recognition techniques
+unilateral feature descriptor
+recognition events occur
+output expression classification
+free space transmission
+teacher management terminal
+pre-trained detection network
+multiple audio samples
+integrity identification unit
+realizing target scene
+identification video image
+perform card recording
+unique facial features
+multi-person photographing method
+open ultrasonic sensor
+human face portrait
+collecting human face
+information transmission unit
+determining companion user
+micro controller unit
+geometric relationship parameter
+shared memory system
+millimeter-wave radar apparatus
+enrich training data
+brush face device
+convolutional neural network
+target position based
+card reader fixed
+square block
+related operation effect
+criminal face database
+feature regeneration subsystem
+shows depth equal
+progressive mode camera
+learning guidance method
+face local feature
+sound pickup module
+target document information
+file printing outlet
+target human subject
+changing focal depth
+virtual dental model
+performs weighting based
+infrared sensing system
+wiring jack
+biometrics apparatus
+good storage safety
+inherent uncertainty
+human-computer interaction method
+preset instruction pattern
+providing attractiveness score
+action identification module
+weickert structure tensor
+intelligent monitoring unit
+eyeball attitude feature
+missing person database
+driving mode based
+paramedator face model
+pcb board installed
+facial feature quantity
+adaboost learning algorithm
+depth fitting relation
+multiple segmentation maps
+morning inspection information
+silver conductive layer
+facial scanning screen
+face registration module
+display apparatus based
+preprocessing digital images
+line laser scanning
+cloud processing terminal
+input pedestrian picture
+real-time portrait image
+poor limitation problem
+modal description vector
+stores data collected
+classified based
+multiple computing devices
+cloud computing centers
+multiple optical transmitters
+maximum similarity
+ortholog blood relatives
+avoiding peak queuing
+ambient light level
+absolute gather channels
+facilitating automatic generation
+mounting protective base
+steganographically embedding method
+convenient information collection
+realizing household members
+drowsy driving detection
+mobilenetv3-small network model
+key point group
+point characteristic information
+pre-designed loss function
+multiple animal images
+fusing occlusion scenes
+insurance account information
+graying scale mode
+integrated image rows
+emotion testing process
+weak postulate set
+electronic lock module
+device control instruction
+counting peoples flow
+real models representing
+real-time shielding face
+outer sealing plate
+uniform resources locator
+avoiding dust affecting
+convolutional layers output
+inputted information obtained
+excellent authentication performance
+face region based
+face feature achieves
+current voice signal
+sensing camera collects
+generate display information
+spoof risk rate
+occlusion face image
+contrast pyramid principle
+determining requirement information
+multi-dimensional approach based
+total sample set
+strong light characteristics
+lip identification point
+multi-dimensional feature sub-graphs
+categorizing relationship
+card swiping module
+divided input data
+cuer detection module
+automatically cut edge
+automobile instrument desk
+drive motor drives
+multiple angle intervals
+conducting image analysis
+hardware infrastructure comprises
+lower box body
+target group
+code converter
+computer vision subject
+non-iterative update formula
+selectively prohibits access
+detecting forged/falsified/fake face
+human profile features
+supplying working power
+implementing interaction based
+texture processing image
+wireless monitoring system
+larger film area
+system platform requirement
+rubbish classification event
+upper pc machine
+obtaining attribute data
+attribute determination system
+voice information interaction
+intelligent processing algorithm
+image picking picks
+authorizes control access
+face training samples
+stamp-use approval result
+prediction video sequence
+online collaboration session
+candidate video paragraph
+clothing recognition algorithm
+offline training module
+dangerous limb results
+ubuntu operating system
+digital amplification circuit
+sampling random fuzzy
+integrated machine portion
+air outlet end
+normalized frame image
+anticipated meeting participants
+data display screen
+front end device
+real apparent age
+functional sheet substrate
+projector optical machine
+online training process
+capture human faces
+security monitoring processor
+convolutional neural networ
+imaging sensor component
+correct bright pixel
+match prediction carried
+compares location data
+blur correction processing
+preset face picture
+identity recognition fails
+ellipse fitting processing
+analyze color distribution
+collected driver image
+special operation certificate
+image processing chips
+led lighting units
+multi-target tracking method
+extracting unit
+depth sensor comprises
+accident involved personnel
+local feature classifier
+automatic disinfection device
+cloud storing module
+learning data-acquisition unit
+standalone monitor display
+non-reference feature patterns
+authenticating user utilizing
+rear end personnel
+fuse processing results
+outputting color-corrected image
+increases detection speed
+remnant detecting module
+machine learning algorithm
+voice acquisition module
+video-connected node server
+secondary angle-adjusting mechanism
+involves selecting person
+home security system
+abnormal data occurs
+mobile phone app
+extracted human faces
+training data matrix
+soft-network management system
+facial landmark locations
+original face images
+non-inductive snapshot devices
+classification storage module
+good function expandability
+facial recognition routines
+image capture location
+cabin intercom system
+image correction process
+portable face recognition
+bracket screw rod
+pre-set frame number
+double window a-trim
+testing real scene
+blowing port blowing
+coordinates transformations frame
+authenticating living body
+real time feedback
+card identifying machine
+generating emotional information
+feature pyramid network
+obtain height similarity
+facial recognition verification
+water-proof coating layer
+video and/or photo
+standard pixel points
+preset naming format
+video collection data
+obtain phase images
+pedestrian passage controller
+building number button
+quality inspection result
+face collecting process
+linear neural network
+image camera head
+gaussian kernel function
+linear regression matrix
+single data processing
+background music mode
+avoiding vapour condensation
+voice module triggered
+component processing industry
+respective images represent
+camera device arranged
+continuous video frame
+playing pre-recorded video
+sub-matrix composite coefficient
+transmitting facial photograph
+low hardware cost
+light supplementing lamps
+external side surface
+image acquisition device
+matching feature pair
+specific range limited
+face image position
+attitude complete dictionary
+supporting back plate
+collecting personal data
+depth human face
+touch identifying unit
+imaging unit
+judging projection matrix
+voice prompt loudspeaker
+keyboard drawer plate
+staff performing
+graphical control element
+bluetooth communication module
+radio frequency identification
+object attribute features
+local training model
+multiple keys based
+facial organ state
+determine human face
+control feeding screen
+subsequent biometric sample
+certificate identification unit
+test sample unit
+online education system
+face analysis data
+cash transporting personnel
+upper end surface
+smart recommendation unit
+safety pre-warning system
+input low-resolution images
+human input device
+joint feature vector
+outdoor high temperature
+authority facial images
+non-contact measuring temperature
+alarm module alarms
+low-dimensional projection matrix
+recording face information
+method involves separating
+input video stream
+calibration conversion relationship
+prevent student ac
+real false picture
+previously reserved service
+human face pre-processing
+preset error rate
+human recognition module
+instant messaging connection
+target augmented reality
+establishing adjacent relation
+face prediction frame
+n-layer positive operation
+initial identification model
+internal memory stores
+online teaching process
+drunk detection result
+detecting key point
+secondary exposure amount
+background management platform
+self-adaptive mobile phone
+second-generation card reader
+triggering operation exists
+rough set process
+remote face recognition
+realize automatic rotation
+image quality indicator
+received radio frequency
+redundant coding
+optically scanned simultaneously
+mobile user terminals
+marked feature points
+infrared receiving unit
+liquid crystal layer
+personal identification image
+feature vectors stored
+passenger flow statistics
+camera shooting video
+fingerprint collecting mechanism
+beidou big data
+predict danger occurrence
+attendance prompt process
+teacher review module
+displaying alarming module
+kriging interpolation device
+adjustable angle support
+pre-set verification method
+infrared heat map
+captured video sequences
+intelligent service module
+numerical feature values
+intelligent processing system
+realizing mixed verification
+scanning human faces
+preset rating rule
+eye recognition sub-module
+target area belonging
+travel screw rod
+received image
+face searching instruction
+high intelligent degree
+shop pcs information
+global resource serialization
+authentication processing performed
+infrared laser projector
+system single-chip microcomputer
+trademark identification process
+ic card reader
+weighting calculation process
+bone conduction earphone
+character gesture result
+posture location sensor
+subsequent fuzzy logic
+face attribute recognition
+big data ecosystem
+worm wheel
+center point coordinates
+preset segmentation point
+photosensitive lens resistor
+supporting multiple kinds
+facial keypoint models
+card imaging system
+personal-identification unit specifies
+punching integrated machine
+preset image set
+bottom outer wall
+trigger pulse signal
+gaze recognition module
+lip simulation action
+test subject face
+receiving expression data
+tracing code varies
+auxiliary recognition coefficient
+image capturing device
+head point cloud
+connection block
+lock control plate
+emotion interaction system
+control laser pen
+intelligent electronic scale
+front face area
+time recognition accuracy
+face image tag
+perform secondary training
+reference viewpoint determined
+sensing scene-based occurrences
+pixel array unit
+face angle information
+hemispherical protective shell
+intermediate fatigue state
+rain sheltering shed
+joint servo motor
+vapour liquefaction temperature
+turbine working area
+network information safety
+exercise prescription module
+sampling color coding
+face data set
+detection tolerance greater
+display video frame
+group emotion images
+unique identification code
+reflected non-visible light
+video conference policy
+rotating regression frame
+biological identification result
+lift operation information
+convex hull algorithm
+movable detection model
+inter-relational person scores
+use/ ascertaining identity
+stored connection data
+spatial coordinate system
+external portable device
+face template information
+pixel counting module
+combined loss function
+lcd display circuit
+multiple gesture sub-images
+face data stored
+human vision system
+user identity card
+processor-based image acquisition
+face detection module
+classifying feature map
+infrared data set
+human skin non-pixel
+dimensional body model
+locking and/or unlocking
+corresponded parent terminal
+waste management function
+automated screening system
+decoupling expression learning
+pre-stored fingerprint information
+health detection report
+background processing component
+surface myoelectric sensor
+light reflection appearing
+connecting plate
+image feature point
+fixed plate
+cover plate
+false positive rate
+motor vehicle components
+stochastic gradient descent
+characteristic vector space
+error correcting device
+night vision function
+id card number
+digital video camera
+heart rate sensor
+face detection
+biological feature recognition
+movable block
+undirected connected graph
+wireless network transmission
+enterprise performance management
+current face state
+user activity trajectory
+good protective effect
+human shape detection
+desired position
+device control module
+key point matching
+personal identification system
+image character information
+target monitoring area
+neural network algorithm
+adjusting unit
+electronic identification device
+surveillance camera system
+automated teller machine
+geometric relationship graph
+facial expression recognition
+optical head unit
+convex teeth
+network video recorder
+face tracking algorithm
+automatic vending machine
+color image
+dimension reduction process
+haar cascade classifier
+characteristic data set
+computer software development
+remote control terminal
+radio frequency filters
+small bevel gear
+support vector mechanism
+external electronic equipment
+medical image information
+user interface
+dynamic programming technique
+global affine transformation
+external power socket
+quality evaluation model
+human body image
+vertical center line
+high definition technology
+real time detecting
+meta data
+knowledge ability vector
+maximum margin criterion
+swinging rod
+visible light camera
+target people
+medical waste management
+human body weight
+feature information extraction
+mobile intelligent terminal
+driving assistance system
+wireless transmitting module
+numerous background samples
+intelligent sound box
+depth image
+data management subsystem
+geometrical feature
+baffle device
+feature extraction process
+random forest classifier
+verification system
+grey scale information
+quality evaluation process
+visual recognition system
+speech synthesis module
+short message module
+reflected wave signal
+exit pupil
+arc length formula
+detecting plate
+weight values
+xml file format
+indoor positioning system
+net banking systems
+stop key
+monitoring opening safety
+center part
+identification module extracts
+eye state classification
+wireless network communication
+remote access unit
+risk prediction model
+rectified linear unit
+intelligent shoe cabinet
+palm vein image
+spatial relationship
+long wave infrared
+voice recognition technology
+image processing apparatus
+mobile information network
+face recognition system
+performing multimodal authentication
+intelligent control device
+target identification model
+facial expression
+human body feature
+compressed image processing
+temperature detection device
+security management system
+knowledge representation system
+personal activity location
+personal identification number
+key frame information
+operation display screen
+thermal imaging device
+motion characteristics
+blind source separation
+signal processing system
+supporting plate
+terminal management system
+processing device
+inspection route preset
+permanent storage area
+human body characteristics
+training face image
+display screen
+user behavior data
+body mass indexes
+minimum circumscribed rectangle
+coaxial light source
+early warning function
+emergency stop button
+process received images
+facial feature
+principal components analysis
+biometric identification technology
+size information
+titanium alloy material
+traffic control system
+individual images
+facial feature recognition
+lcd touch screen
+machine learning techniques
+wearable computing device
+human face
+digital video recording
+mobile control terminal
+test data set
+radio frequency tag
+comprehensive risk classification
+ground control station
+target tracking model
+access rights database
+programmable gate array
+camera projection matrix
+multiple blocks
+image processing system
+multiple shape parameters
+extracting feature point
+object side
+confidence levels
+common light source
+local binary pattern
+high peak period
+supervised learning algorithm
+main body frame
+fingerprint sensor
+credit risk level
+distance measuring instrument
+temperature measuring device
+horizontal guide rail
+top part
+mobile phone locating
+shape parameter
+specific human face
+frequency selective network
+wireless communication function
+led current driver
+early warning message
+double-eye center point
+lower manufacturing cost
+predetermined measurement time
+mathematical morphology operation
+deep neural network
+data analysis method
+starting point coordinate
+small data set
+target identity identification
+user equipment
+control processing unit
+infrared video image
+intelligent remote control
+blackbody radiation source
+adjusting screw rod
+video image data
+face identification sub-network
+image recognition technique
+driving component drives
+analyzing process
+image capturing system
+video stream
+basic information
+work control machine
+good shooting effect
+simple structure
+linear light source
+joint probabilistic model
+local feature extraction
+gravity center position
+point light source
+geographical position information
+direct pixel information
+stainless steel shell
+video communication terminal
+network teaching system
+tracking target
+infrared video camera
+wireless transmission network
+image analysis process
+image information base
+background light intensity
+openstack cloud platform
+mobile phone terminal
+prediction confidence level
+single chip microcomputer
+image quality evaluation
+power converter circuit
+quiet state
+speech recognition field
+neural network training
+identity information
+data acquisition device
+human body tracking
+maximum spanning tree
+face feature extraction
+ridge regression model
+digital signage system
+pcb circuit board
+mobile positioning technology
+energy storage device
+input session
+depth residual network
+computer vision technology
+speech recognition module
+image feature information
+drive component
+infrared identification system
+geographic location information
+license plate identification
+real time testing
+data display module
+automatic voice recognition
+optical image sensor
+personal electronic device
+front camera
+facial muscle movement
+power supply transformer
+network front end
+cloud analysis platform
+real time analysis
+image signal processor
+obtaining uniform size
+gray scale projection
+real time processing
+central storage unit
+ground truth data
+high pass filter
+local monitoring system
+programmable control device
+lower wall
+visible light source
+providing financial service
+power supply product
+bluetooth low energy
+input interface
+convex curved surface
+track point
+vision device
+text clustering algorithm
+door control system
+wireless data transceiver
+central processing device
+edge detection algorithm
+gprs communication module
+high resolution camera
+facial expression image
+identification attendance machine
+video processing circuit
+remote control centre
+social security fund
+network port
+alarm management module
+social security payment
+data processing program
+management server
+top ball
+masking traffic participants
+information processing apparatus
+motion parameter
+performing age recognition
+feature vector
+automatic marking device
+logical access control
+integrated process unit
+rgb color image
+hierarchical feature representation
+multiplying attention computed
+remote control unit
+predetermined threshold
+integrated circuit structure
+image input device
+light field camera
+data fusion process
+straight line section
+output control unit
+network storage server
+social network service
+cuckoo search algorithm
+angular displacement sensor
+electric control device
+advanced risc machine
+large scale data
+big data statistics
+rotating shaft
+radio frequency module
+text data
+knowledge base module
+application program interface
+fatigue driving detection
+video display unit
+online tutoring system
+big data platform
+video data matches
+specific criteria
+potential safety hazard
+data storage facility
+time sequence relation
+data analysis module
+data acquisition subsystem
+laser radar technology
+master control center
+semi-perpetuation field procedure
+iterative closest point
+ensure traffic safety
+time point data
+similar triangle principle
+detecting light intensity
+wireless transmission module
+wireless network card
+image data processing
+visual data
+temperature measuring precision
+remote sensing image
+lower frequency components
+low maintenance cost
+outer wall surface
+attribute recognition manner
+classification error rate
+mobile display device
+school bus safety
+mounting box
+markov random field
+artificial intelligence technology
+power supply component
+position deviation information
+vector flow map
+reflection time
+carbon steel plates
+storing collected images
+higher education management
+fixed reference point
+light field image
+energy consumption low
+accurate temperature measurement
+data processing part
+intelligent security system
+feature level fusion
+wireless communication interface
+automatic inspection system
+digital light processor
+joint feature selection
+lens focal length
+knowledge base system
+quality prediction model
+constrained optimization problem
+gaussian process classifier
+point cloud image
+information generation model
+open air environment
+solar battery board
+financial service industry
+preliminary feature map
+pull wire
+skin care product
+radial basis function
+computer processor
+good stability
+remote control mode
+multimedia advertisement machine
+spatial location distribution
+radio frequency signal
+network file system
+human eye detection
+distance measurement sensor
+classification method based
+perform feature fusion
+facial expression database
+fuzzy identification algorithm
+detecting component
+target point cloud
+presentation module
+naked eye
+micro control unit
+digital signal processors
+led display screen
+image data stream
+artificial intelligence model
+emotion analysis process
+bar code identification
+human body detection
+personnel monitoring system
+signaling walk-away event
+hierarchical tree structure
+radio frequency unit
+night vision goggles
+video data collection
+mobile phone application
+database management module
+hsv color model
+embedded main board
+upper surface
+facial range data
+face recognition
+target detection algorithm
+data collection device
+mail sorting machine
+automatic starting device
+machine learning methods
+queuing waiting time
+portable terminal
+power source module
+video key frame
+blood pressure data
+point cloud fusion
+object detection system
+incremental learning method
+heat dissipation performance
+hyperbolic tangent function
+image recognition method
+door control apparatus
+video code stream
+sequence image
+psychological evaluation model
+dynamic face recognition
+temperature measuring probe
+densely populated area
+linear kernel function
+average euclidean distance
+organic electroluminescent device
+wireless communication mode
+high economic benefit
+multivariate gaussian distribution
+light source device
+three-dimensional scanning apparatus
+passenger waiting time
+decision making method
+construction method
+bluetooth communication technology
+age group distribution
+global optimization algorithm
+artificial intelligence algorithm
+neuron activation function
+tripod head
+ink jet printer
+entrance management system
+temperature measuring module
+fixed tooth plate
+portable terminal apparatus
+information display terminal
+pattern recognition technology
+government administration section
+propagation medium
+backup plate
+infrared sensor senses
+wire connecting terminal
+reference data
+multiple objects
+set top box
+intelligent mobile device
+infrared lamp
+task allocation strategy
+thin fingerprint module
+iris recognition system
+early warning method
+position identification module
+feature unit
+biometric characteristic-document combination
+video input device
+normal operating state
+enterprise management performance
+data processing device
+cold air pipe
+peripheral component interconnect
+signal input end
+human body features
+social network data
+face information database
+receiving control instruction
+chest x-ray image
+main control circuit
+real time video
+high pressure fan
+prompting background worker
+perform unified management
+electromagnetic shielding performance
+power distribution circuit
+servo motor
+application-specific integrated circuit
+weighted estimation operation
+determining marketing trait
+space stream branch
+mouse function based
+face recognition techniques
+recognizing face image
+face real-time image
+image display screen
+facial collection image
+classification model library
+intelligent behavior recognition
+densely distributed
+small single-board computers
+online lesson plan
+single frame image
+output layer
+attendance management system
+remote transmission unit
+identifying method
+wireless charging coil
+image processing server
+computer vision techniques
+video processing algorithm
+speckle reference image
+recognition device
+reduce energy consumption
+controller area network
+light intensity adjustment
+improves measurement precision
+moving frame
+sealing cover
+network information engineering
+attendance checking system
+air supply mode
+external environment variable
+polar coordinate system
+neural network model
+micro processing unit
+facial expression classification
+differential amplifier circuit
+maintenance work station
+core control module
+user identification code
+fixed wheel
+main body cover
+laser range finder
+gray scale image
+image analysis method
+line feature point
+neural network based
+gray level image
+coal mining process
+reduce economic loss
+face expression recognition
+rotating rod
+infrared detecting device
+visual display unit
+fingerprint identification function
+top end
+money feeding seat
+video surveillance system
+touch screen display
+uninterrupted power supply
+line scanning camera
+candidate face region
+intelligent remote monitoring
+mobile edge computing
+online tracking method
+higher order singular
+real time monitor
+temporary storage area
+data transmission module
+real time process
+skin color extraction
+wavelet packet coefficients
+access control server
+serial communication module
+high speed camera
+eye gaze direction
+data processing unit
+optical character recognition
+factor analysis model
+lower edge line
+speech recognition software
+image collecting system
+automatic image recognition
+infrared camera device
+smart protection system
+computer generated image
+proximal interphalangeal joints
+bottom plate
+infrared receiving tube
+positive sample set
+intelligent street lamp
+user application program
+randomly select samples
+image retrieval technology
+false alarm rates
+light beam
+low frequency part
+touch control screen
+3d face models
+smart home system
+low order digit
+target tracking process
+mobile phone number
+recognition time
+protective plate
+intelligent building system
+cell phone
+artificial intelligence chip
+channel selection algorithm
+straight line form
+base coordinate system
+integrated protection device
+supporting rod
+integrated circuit card
+facilitating workforce analytics
+ycbcr pixel features
+sd memory card
+shading mechanism
+license plate number
+automated visual inspection
+time series image
+low power mode
+external power source
+main control box
+camera data bus
+programming logic controller
+account management system
+remote control method
+cluster representative
+angle adjusting device
+specific size
+movable supporting frame
+handwritten character recognition
+general processing unit
+feature learning method
+-16 network model
+identify face vitals
+positioning step drives
+data processing algorithm
+artificial intelligence application
+data management module
+data processing terminal
+back end edge
+touch screen event
+image management sever
+radio frequency circuit
+personal identification device
+head pose
+thermal infrared sensor
+feature vector extraction
+real time display
+risk assessment process
+medical care personnel
+identifying dangerous person
+vision comprises acquiring
+complex illumination scene
+coordinate conversion parameter
+voice source waveform
+intelligently identifying image
+control switch group
+real-time condition information
+mobile courier app
+age identification unit
+video storage server
+probability density distribution
+facial region
+attribute label
+computer vision system
+image input unit
+central processing mechanism
+outer surface
+preset forehead temperature
+gait recognition system
+device main structure
+power supply socket
+orientation mechanism
+cyclic loss function
+data communication device
+cloud storage platform
+bank card payment
+color source image
+high bending strength
+power supply loop
+distribution fitting model
+empty top operation
+arc shaped structure
+face tracking information
+key point characteristic
+power distribution box
+video image processing
+data storage device
+network safety
+supporting frame
+target position information
+reference image
+time domain features
+pattern recognition apparatus
+sparse component analysis
+direct current motor
+main processor unit
+infrared radiation intensity
+light guide assembly
+retinal pigment epithelium
+video flow
+texture feature extraction
+weak current engineering
+texture characteristics
+frequency domain transformation
+remote monitoring server
+reflected light
+expression feature extraction
+image processing technology
+fist vertical shape
+automatic face recognition
+spiking neural network
+lifting devices
+large scale equipment
+automatically built
+distributed file system
+image processing software
+signal processing circuit
+optimal decision model
+service processing subsystem
+low energy consumption
+radio frequency antenna
+cumulative distribution function
+algorithmic state machine
+convolution neural network
+program logic controller
+microprocessor system
+automatic adjusting function
+raw image data
+storage power station
+head gesture
+power supply system
+core processing unit
+key point extraction
+image data transmission
+door lock assembly
+law enforcement personnel
+liquid crystal screen
+shock absorption effect
+infrared sensor array
+wireless area network
+horizontal strip-shaped cavity
+human faces recognition
+visible light image
+signal processing module
+human face identification
+central locking system
+save electric energy
+coal mining machine
+comprehensive evaluation index
+instant communication software
+power supply lead
+input image size
+upper cover plate
+infrared detection module
+experiment result shows
+shared control unit
+light source environment
+video image signal
+face feature points
+adjusting display brightness
+extracting character area
+intelligent robot system
+metal corrugated pipe
+training set data
+infrared light source
+internal thread
+upper portion
+transmission interface
+data center network
+client device
+customer service representatives
+personal information
+intelligent identification method
+image processing device
+image quality score
+visual perception system
+intelligent household system
+portable mobile terminal
+control application program
+human body sensor
+finger print identification
+intelligent mobile phone
+security payload
+information transmission device
+visual acuity curve
+personal authentication device
+advanced safety vehicle
+tax service hall
+reserve power supply
+camera module
+involves marking sample
+face frame region
+vehicle monitoring system
+negative mood state
+mandibular nerve tube
+notebook personal computer
+shopping search engine
+method involves slicing
+generative adversarial network
+generalized eigen values
+lifting device
+temporary storage unit
+face detection system
+big data technology
+data collection interface
+precise temperature measurement
+face feature
+human face image
+sensing identification device
+automatic control technology
+random unitary matrix
+detection module
+gabor wavelet transformation
+local binary patterns
+long service life
+automatic processing method
+facial images
+data processing module
+media access control
+automatic recording times
+information handling system
+neural network
+machine learning platform
+face recognition systems
+customer information database
+audio output device
+color video camera
+feature extraction algorithm
+video conference terminals
+financial transaction system
+image acquisition method
+huber loss function
+mouth changing algorithm
+average absolute error
+internet data center
+triangular coordinate system
+information input device
+physical features
+driving circuit
+personal identification papers
+shielding mechanism
+radio frequency identity
+hot steel billet
+training neural network
+power supply plug
+pattern recognition method
+high dimension space
+video image analysis
+module power supply
+medical insurance card
+call management system
+operation panel
+hidden markov model
+main frequency band
+flash memory device
+high definition display
+template matching technique
+wireless base station
+optical coherence tomography
+industrial television camera
+data transmission speed
+identification module
+video data processing
+computing system architecture
+face pattern image
+data processing component
+radio resource control
+photosensitive surface
+power management module
+main control panel
+safety control device
+dangerous driving behavior
+frequency response characteristics
+remote information service
+scenic spot management
+central line
+liquid crystal panel
+multiple keys
+time series data
+civil aviation safety
+body mass index
+health care system
+intelligent vending machine
+thin plate spline
+front access door
+internal data memory
+automatic customs inspection
+line-of-sight estimation system
+good teaching effect
+display control unit
+heart rate variability
+fixed focus lens
+brain tumor resection
+human facial recognition
+negative samples
+target detection probability
+human body temperature
+operation control unit
+reliability index
+main power supply
+local affine transformation
+ball region based
+fixing device
+active light source
+embedded development board
+counting checking processes
+quality guarantee period
+outlier detection algorithm
+automatic driving mode
+frequency domain characteristic
+dedicated data set
+video intelligent terminal
+autonomous mobile robot
+imaging lenses
+power management system
+industrial application fields
+safety detecting technology
+point spread function
+xyz colorimetric system
+bottom part
+image signal receiving
+color image information
+large data platform
+access control method
+medical treatment order
+intelligent identification system
+portable display device
+preset scanning times
+test data input
+external impact factors
+lcd display module
+data distribution statistics
+image processing techniques
+target face
+time domain signal
+connecting rods
+short messaging service
+neural network architecture
+coefficient models
+wireless communication link
+local shape descriptor
+power supply board
+connecting rod
+machine learning method
+electronic control unit
+echo cancellation algorithm
+electric appliance circuit
+cloud data center
+air conditioning system
+linear discriminant analysis
+fourier transform lens
+law enforcement agencies
+extract local features
+web document classification
+mobile user terminal
+sliding rod
+capacitive touch screen
+elm neural network
+digital trunked radio
+local directional patterns
+cumulative probability distribution
+data editing module
+detection code information
+employee identification card
+local maximum point
+abnormal face recognition
+complex lighting conditions
+cross section shape
+effect evaluation index
+speech recognition technology
+exposure control circuit
+service processing module
+domestic consumer market
+data acquisition machine
+inverted index table
+linear motion unit
+facial action
+information management platform
+virtual light source
+learning evaluation system
+sensor data processing
+representational state transfer
+neural network processor
+industrial control board
+information input module
+nose tip
+liquid crystal film
+ultrasonic wave sensor
+information processing technique
+total internal reflection
+high technology field
+critical point model
+gaussian mixture model
+video monitoring platform
+human face photos
+main control machine
+web front end
+decision tree model
+specific shape mask
+global positioning satellite
+fractional fourier transform
+panel structure body
+terminal control unit
+information processing equipment
+rough set theory
+artificial intelligence system
+optimal projection direction
+building construction site
+low learning result
+information management system
+preset mode
+feature point detector
+deep reinforcement learning
+external environment factor
+main direction
+data management center
+feature point sets
+edge linking
+remote control instruction
+early warning information
+component object module
+target feature information
+action judging unit
+trained neural network
+similar transformation matrix
+infrared camera system
+external hard disk
+gabor wavelet feature
+data collecting device
+information exchange module
+gesture recognition device
+high recognition rate
+light guide plate
+center control module
+drive unit
+portable data terminal
+finite element software
+human face region
+biometric recognition technology
+credit card verification
+sending goods-taking state
+digital photo frame
+detection device
+human body posture
+bidirectional detection method
+intelligent teaching system
+advertising lamp box
+user interface unit
+vehicle license plate
+media asset management
+transmission control unit
+image processing algorithms
+artificial intelligence field
+identification card number
+improve learning results
+personal protective equipment
+connected component analysis
+household electrical appliance
+data transfer terminal
+gaussian density function
+external force damage
+power supply module
+large led device
+front end face
+good technical support
+probability statistical model
+3d face model
+teaching evaluation method
+sparse representation model
+serial port connection
+image pyramid algorithm
+kohonen neutral network
+image processing method
+online detection device
+wireless connection module
+fast marching method
+spatial frequency domain
+blood pressure monitoring
+average grey scale
+static face information
+fixing case shell
+top locating line
+spatial distribution map
+multiple light sources
+control power supply
+photoelectric conversion element
+external power supply
+short message alarm
+shortest distance algorithm
+registration management system
+recognition accuracy rate
+radar echo data
+image feature extraction
+transmission signal line
+image information includes
+collected data
+video image sequence
+controlled environment facility
+infrared polarization image
+emotional facial expression
+heart rate signal
+data buffer module
+target state information
+user identity authentication
+embedded control system
+testing sample set
+high test efficiency
+sparse linear process
+biometric recognition method
+calculating pixel coordinate
+database fingerprint image
+downward facing sensors
+haar wavelet transform
+lighting conditions
+local structure feature
+control system component
+cyclic neural network
+image processing unit
+reference characteristic data
+unsymmetrical adaboost algorithm
+building information modeling
+video conferencing system
+skin color model
+user selection
+age distribution
+joint probability distribution
+power supply unit
+microprocessor based system
+human faces detection
+image information previously
+machine readable observations
+video frequency
+detection result
+communication control system
+data acquisition module
+rear cover plate
+human face area
+wireless public network
+data display unit
+law enforcement officer
+notification receiving module
+final test result
+special power supply
+user interest model
+wireless remote controller
+signal transmission process
+spare power supply
+parallel straight line
+door intercom apparatus
+perform monitoring process
+photographed object light
+related people appearing
+wireless communication network
+lifting column
+large data statistics
+quality evaluation
+mobile phone camera
+community management staff
+human body characteristic
+virtual reality applications
+driving component
+support mechanism
+programme logic controller
+vehicle black box
+linear regression line
+mobile phone cpu
+fast response speed
+data transmission operation
+electronic payment system
+vision sensor system
+energy saving system
+structure feature information
+human facial expression
+intelligent management module
+lower side wall
+wireless communication protocol
+charged coupled device
+arithmetic logic unit
+mobile terminal app
+medical care system
+identity information management
+fine tuning mechanism
+delaunay triangulation method
+network transmission module
+front end interface
+information management module
+serial port rs232
+infrared sensing device
+image signal output
+led backlight module
+network live broadcast
+spliced human face feature
+threaded rod upper end
+tracking multiple human faces
+human body target object
+target human face video
+unit image set comprises
+information resource management center
+command extraction device issues
+hyper text transfer protocol
+human computer interaction system
+narrow band interference filter
+face recognition visitor
+color ring back tone
+lamp strip fixedly connected
+maximally stable extremal region
+field programmable gates array
+media access control address
+object position detection method
+specifically claims human faces
+wireless local area network
+automatic facial expression recognition
+user screen data stream
+perform state evaluation process
+universal subscriber identity module
+face contour integrity detection
+magnetic resonance imaging apparatus
+involves obtaining characteristic information
+processor analyzes images obtained
+sending preset control command
+image processing model
+sending commodity recommendation information
+flow line tracing system
+facial emotion expression
+closed circuit television system
+domain characteristic extraction process
+client relationship management system
+method involves performing visualization
+deforming generic three-dimensional model
+clinical decision support system
+infrared narrow band filter
+switch door operation occurs
+infrared thermal imaging device
+video contact center environment
+ultrasonic distance measuring module
+performing human voice recognition
+determining low-dimensional characteristic vector
+electric lifting platform electrically
+real time video processing
+image signal processing circuit
+squares support vector machine
+face image recognition system
+weighted maximum distance criterion
+external power supply socket
+digital living network alliance
+intelligent face-brushing electronic doorplate
+key point detecting model
+convolutional neural network process
+foreground segmentation processing module
+full body coordinates
+joint photographic experts group
+two-dimensional code identification module
+preset user multiple angles
+human machine interaction interface
+real time data transmission
+intelligent information processing technology
+multi-view face recognition technique
+method involves calculating
+support vector machine algorithm
+ensuring proper positioning
+guide robot body arranged
+image information acquired
+dsp + fpga module
+local three-value mode characteristic
+involves extracting emotional state
+driver behavior analysis
+video image display system
+deep neural network model
+linear prediction cepstrum coefficient
+global positioning system receiver
+input image
+obstructive sleep apnea detection
+infrared thermal imaging technology
+sequential monte carlo method
+secondary training sample matrix
+automatic fingerprint identification system
+real estate registration system
+wireless data transmitting module
+photo storage address information
+principal component analysis algorithm
+optical fiber cable transmission
+extracting local micro-pattern features
+thin plate spline function
+involves tracking key point
+receiver operating characteristic curve
+artificial neural network model
+sobel edge detection algorithm
+fuzzy analytic hierarchy process
+final expression classification result
+high dimensional feature space
+pca principal component analysis
+neural network prediction model
+intelligent sign-in device fitting
+canny edge detection algorithm
+plane rectangular coordinate system
+optical character recognition system
+producing picture data
+screen superposition processing module
+vcc + pin pipe
+fuzzy comprehensive evaluation algorithm
+lift face recognition system
+mel frequency cepstrum coefficient
+unobstructed human facial images
+lower sliding grooves
+human face recognition task
+artificial fish swarm algorithm
+processing content determination unit
+nose type feature points
+charge coupled device camera
+neural network training method
+digital signal processing chip
+utilizing convolutional neural network
+search target video sequence
+error back propagation algorithm
+shedding detection method applied
+label-free performance evaluation based
+target number plate number
+passage decision determination unit
+liquid crystal display panel
+local binary pattern feature
+designated facial features output
+flexible printed circuit board
+mixed gaussian distribution model
+stored enrollment biometric information
+coupled hidden markov model
+keyboard maintenance terminal interface
+method involves providing input
+face recognition portable machine
+performing cross-model face recognition
+involves defining localized regions
+facial feature point detection
+negative tooth screw rod
+infrared light emitting diode
+high definition multimedia interface
+generates instant face data
+artificial neural network algorithm
+bidirectional reflectance distribution function
+travel identification system based
+principal component analysis method
+intelligent temperature measuring instrument
+providing characteristic information related
+to-be-identified information includes
+gaussian probability density function
+cross sectional image feature
+counting passenger flow statistics
+individual feature library database
+complicated programmable logical device
+portrait identification photography module
+real time video stream
+international mobile subscriber identity
+svm support vector machine
+scale invariant feature transformation
+preset confidence rate threshold
+fingerprint collecting module arranged
+low voltage power supply
+circular space switching network
+long short term memory
+support vector machine model
+mobile industry processor interface
+big data analysis technology
+potential safety hazard risk
+human facial expression recognition
+local gabor binary patterns
+automatic face recognition systems
+infrared thermal imaging instrument
+digital image processing method
+graphical user interface
+low power consumption design
+extracting id card information
+feature point set
+surveilance camera image
+ultrasonic fingerprint identification apparatus
+multilayer feedforward neural network
+customer relationship management system
+digital signal processing unit
+control system controls motion
+camera focusing tracking system
+hard disk video recorder
+citizen face feature information
+kernel principal component analysis
+transverse integration projection curve
+scoring model determines
+character information data set
+radial basis function classifier
+facial expression recognition function
+involves adding identification information
+scale invariant feature transform
+multiple information management platforms
+recursive neural network algorithm
+information processing section configured
+identity information stored
+field programmable gate array
+general packet radio service
+registration biometrics data correlated
+data acquisition processing system
+artificial intelligence fusion model
+code division multiple access
+android intelligent mobile phone
+high-speed rail access station
+bluetooth positioning device
+public security law enforcement
