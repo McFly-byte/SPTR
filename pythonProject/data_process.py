@@ -17,13 +17,14 @@ import matplotlib.pyplot as plt
 """
 
 # 从数据库读取数据
-def duqu1(user,pwd,db,time_window): #TODO 先这么写，后面再把数据库信息做参数
+def duqu1(usr,pwd,db,time_window): #TODO 先这么写，后面再把数据库信息做参数
     # FIXME conn = pymysql.connect(host='localhost', port=3306, user='user, password='Xy213592', db='patent_for_test')
-    conn = pymysql.connect(host='localhost', port=3306, user=user, password=pwd, db=db)
+    conn = pymysql.connect(host='localhost', port=3306, user=usr, password=pwd, db=db)
     cur = conn.cursor()
     try:
-        # FIXME cur.execute("SELECT * FROM `专利31000_for_test` WHERE `时间` >= 2020 AND `时间` <= 2021 ")  #选定时间窗
-        cur.execute(time_window)
+        # FIXME cur.execute("SELECT * FROM `专利31000_for_test` WHERE `时间` >= 2020 AND `时间` <= 2021 ORDER BY '时间' ")  #选定时间窗
+        # TODO 这里在语句中加了ORDER BY以便和强度统一 不知道是否影响结果
+        cur.execute(time_window) # sql语句在调用时就生成好，包括时间区间（software.py中）
         data = cur.fetchall()
         frame = pd.DataFrame(list(data),columns=['patent','ab','ipc','time'])
     except:
@@ -105,7 +106,7 @@ def print_top_words(model, feature_names, n_top_words):
     return tword
 
 
-def process(user,pwd,db,time_window):
+def process_1(user,pwd,db,time_window):
 # ### 1. 分词
     # TODO 分词时怎么可以提前获取要进行的回合数？ （用来添加进度条）
     # global total
@@ -178,15 +179,3 @@ def process(user,pwd,db,time_window):
     y = plexs[1:n_t]
 
     return x,y
-
-    # plt.figure(figsize=(24, 8))
-    # plt.plot(x, plexs[1:n_t])
-    # plt.xlabel("number of topics")
-    # plt.ylabel("perplexity")
-    # plt.show()
-
-    # 这段应该在software.py里，连接perplexity_button
-    # win = pg.GraphicsLayoutWidget(show=True, title="Basic plotting examples")
-    # win.resize(1000,600)
-    # pg.setConfigOptions(antialias=True)
-    # p = win.addPlot(title="Basic array plotting", y=np.random.normal(size=100))

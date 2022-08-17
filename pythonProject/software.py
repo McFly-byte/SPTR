@@ -52,22 +52,52 @@ class Ui_MainWindow(QMainWindow):
         MainWindow.resize(800, 600)
         self.centralwidget = QtWidgets.QWidget(MainWindow)
         self.centralwidget.setObjectName("centralwidget")
-        self.lda_button = QtWidgets.QPushButton(self.centralwidget)
+        # ## 图层
+        self.gridLayoutWidget = QtWidgets.QWidget(self.centralwidget)
+        # self.gridLayoutWidget.setGeometry(QtCore.QRect(170, 80, 551, 391))
+        self.gridLayoutWidget.setObjectName("gridLayoutWidget")
+        self.layout = QtWidgets.QGridLayout(self.gridLayoutWidget)
+        self.layout.setContentsMargins(0, 0, 0, 0)
+        self.layout.setObjectName("layout")
+        # ## 按钮
+        self.lda_button = QtWidgets.QPushButton(MainWindow)
         self.lda_button.setGeometry(QtCore.QRect(140, 120, 171, 41))
         self.lda_button.setObjectName("lda_button")
-        self.perplexity_button = QtWidgets.QPushButton(self.centralwidget)
+        self.perplexity_button = QtWidgets.QPushButton(MainWindow)
         self.perplexity_button.setGeometry(QtCore.QRect(140, 180, 171, 41))
         self.perplexity_button.setObjectName("perplexity_button")
-        self.qiangdu_button = QtWidgets.QPushButton(self.centralwidget)
+        self.qiangdu_button = QtWidgets.QPushButton(MainWindow)
         self.qiangdu_button.setGeometry(QtCore.QRect(140, 250, 171, 41))
         self.qiangdu_button.setObjectName("qiangdu_button")
-        self.data_process_button = QtWidgets.QPushButton(self.centralwidget)
+        self.data_process_button = QtWidgets.QPushButton(MainWindow)
         self.data_process_button.setGeometry(QtCore.QRect(140, 50, 171, 41))
         self.data_process_button.setObjectName("data_process_button")
-        self.cos_button = QtWidgets.QPushButton(self.centralwidget)
+        self.cos_button = QtWidgets.QPushButton(MainWindow)
         self.cos_button.setGeometry(QtCore.QRect(140, 320, 171, 41))
         self.cos_button.setObjectName("cos_button")
+
+        self.layout.setSpacing(10)  # 设置间距
+        self.layout.setRowStretch(0,1) # 设置行比例系数
+        self.layout.setRowStretch(1, 1)
+        self.layout.setRowStretch(2, 1)
+        self.layout.setRowStretch(3, 1)
+        self.layout.setRowStretch(4, 1)
+        self.layout.setRowStretch(5, 1)
+        self.layout.setRowStretch(6, 10)
+        self.layout.setColumnStretch(0, 1)  # 设置列比例系数
+        self.layout.setColumnStretch(1, 2)
+        self.layout.setColumnStretch(2, 2)
+        self.layout.setColumnStretch(3, 2)
+        self.layout.setColumnStretch(4, 2)
+        self.layout.setColumnStretch(5, 2)
+
         MainWindow.setCentralWidget(self.centralwidget)
+        self.layout.addWidget(self.data_process_button,0,0,1,1)
+        self.layout.addWidget(self.lda_button,1,0,1,1)
+        self.layout.addWidget(self.perplexity_button,2,0)
+        self.layout.addWidget(self.qiangdu_button,3,0)
+        self.layout.addWidget(self.cos_button,4,0,1,1)
+
         self.menubar = QtWidgets.QMenuBar(MainWindow)
         self.menubar.setGeometry(QtCore.QRect(0, 0, 800, 26))
         self.menubar.setObjectName("menubar")
@@ -82,14 +112,23 @@ class Ui_MainWindow(QMainWindow):
         self.retranslateUi(MainWindow)
         QtCore.QMetaObject.connectSlotsByName(MainWindow)
 
-        # connect
-        self.data_process_button.clicked.connect(self.process)
-        self.perplexity_button.clicked.connect( self.show_perplexity )
 
-        ## 创建web窗体
+        # ## 绘图控件
+        self.pw1 = pg.PlotWidget()
+        self.pw2 = pg.PlotWidget()
+        self.layout.addWidget(self.pw1,0,1,6,3)
+        self.layout.addWidget(self.pw2,0,4,6,2)
+
+        # ## 创建web窗体
         self.browser = QWebEngineView()
-        self.browser.setGeometry(0, 0, 1600, 900)
+        # self.browser.setGeometry(0, 0, 1600, 900)
+        self.layout.addWidget(self.browser,6,0,1,5)
         self.lda_button.clicked.connect(self.show_web)
+
+        # connect
+        self.data_process_button.clicked.connect(self.process_1)
+        self.perplexity_button.clicked.connect( self.show_perplexity )
+        self.qiangdu_button.clicked.connect( self.process_2 )
 
         # 信号槽机制
         # self.SEND = QTypeSignal()
@@ -97,24 +136,24 @@ class Ui_MainWindow(QMainWindow):
         # self.SEND.sendmsg.connect(self.SLOT.get)
 
 
-    def retranslateUi(self, MainWindow):
-        _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "主题模型可视化"))
-        self.lda_button.setText(_translate("MainWindow", "LDA主题模型训练"))
-        self.perplexity_button.setText(_translate("MainWindow", "困惑度曲线"))
-        self.qiangdu_button.setText(_translate("MainWindow", "主题强度"))
-        self.data_process_button.setText(_translate("MainWindow", "数据预处理"))
-        self.cos_button.setText(_translate("MainWindow", "相邻时间窗下主题余弦相似度"))
-        self.menu.setTitle(_translate("MainWindow", "开始"))
 
-    def process(self):
-        self.x,self.y = data_process.process()
+
+    # LDA 困惑度
+    def process_1(self):
+        # TODO 接收参数
+        user = 'root'
+        pwd = 'Xy213592'
+        db = 'patent_for_test'
+        # TODO time_window 中的 表名、筛选依据的属性名（‘时间’）、起止点（2020、2021） 要额外设计控件接收
+        time_window = "SELECT * FROM `专利31000_for_test` WHERE `时间` >= 2020 AND `时间` <= 2021 "
+
+        self.x,self.y = data_process.process_1(user,pwd,db,time_window)
         print( self.y )
         print( self.x )
 
     # lda可视化
     def show_web(self):
-        # TODO 打包后可能要出事，先这么写着
+        # FIXME 打包后可能要出事，先这么写着
         try:
             self.browser.load(QUrl("file:///D:/MyRepository/sptr/pythonProject/lda_pass30.html"))
             self.browser.show()
@@ -133,8 +172,22 @@ class Ui_MainWindow(QMainWindow):
             # win.resize(1000, 600)
             # Enable antialiasing for prettier plots
             # pg.setConfigOption('background', 'w')
-            pg.setConfigOptions(antialias=True)
+            # pg.setConfigOptions(antialias=True)
             # p = win.addPlot(title="困惑度曲线")
-            pg.plot(self.y, pen=(255, 0, 0), name="curve")
-            pg.exec()
+            self.pw1.plot(self.y, pen=(255, 0, 0), name="curve")
+            # pg.exec()
 
+    # 主题强度
+    def process_2(self):
+        # TODO 补齐
+        print( "qiangdu " )
+
+    def retranslateUi(self, MainWindow):
+        _translate = QtCore.QCoreApplication.translate
+        MainWindow.setWindowTitle(_translate("MainWindow", "主题模型可视化"))
+        self.lda_button.setText(_translate("MainWindow", "LDA主题模型训练"))
+        self.perplexity_button.setText(_translate("MainWindow", "困惑度曲线"))
+        self.qiangdu_button.setText(_translate("MainWindow", "主题强度"))
+        self.data_process_button.setText(_translate("MainWindow", "数据预处理"))
+        self.cos_button.setText(_translate("MainWindow", "相邻时间窗下主题余弦相似度"))
+        self.menu.setTitle(_translate("MainWindow", "开始"))
