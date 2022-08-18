@@ -184,7 +184,7 @@ def plot(zqd):
         for m in zqd:
             linshi.append(m[i])
         plt.plot(nianfen, linshi, marker=b, markersize=6, label='topic_' + str(i + 1))
-    plt.legend(loc="best")
+    plt.legend(loc="best") # 位置
     plt.xlabel('year')
     plt.ylabel('Intensity of theme')
     plt.savefig('图/人脸识别/强度图/曲折.png') # TODO 图片路径用不用改
