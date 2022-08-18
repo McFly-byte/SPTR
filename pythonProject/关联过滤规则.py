@@ -1,9 +1,9 @@
-import numpy as np
+import xlwt
 from numpy import *
+import numpy as np
 import openpyxl
-
 import openpyxl as op
-import  pandas as pd
+import os
 
 def huoqu(year1,year2):
     shuzi = []
@@ -118,6 +118,15 @@ def guize(year1,year2):
     return yxztd
 
 def shuchu():
+    # 加一个判断文件是否存在，不存就新建
+    if os.path.isfile("有效主题关联对.xlsx"):
+        pass
+    else:
+        wb = openpyxl.Workbook()  # 创建工作簿
+        ws = wb.active  # 第一个sheet这样写就行，后面想创建新的sheet可以这样写：wb.create_sheet('sheet名称') 也可以指定index实现插入sheet
+        ws.title = 'Sheet1'  # 修改sheet名
+        wb.save('有效主题关联对.xlsx')  # 可以是相对路径也可以是绝对路径
+
     bg = op.load_workbook(r"有效主题关联对.xlsx")  # 应先将excel文件放入到工作目录下
     sheet = bg["Sheet1"]  # “Sheet1”表示将数据写入到excel文件的sheet1下
     lie = 0
@@ -136,4 +145,7 @@ def shuchu():
     for i in range(1, len(linshi2) + 1):
         sheet.cell(i, lie, linshi2[i - 1])
     bg.save("有效主题关联对.xlsx")  # 对文件进行保存
-shuchu()
+
+
+if __name__ == '__main__':
+    shuchu()

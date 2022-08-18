@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1114</width>
-    <height>693</height>
+    <width>1600</width>
+    <height>898</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -19,12 +19,12 @@
      <rect>
       <x>0</x>
       <y>0</y>
-      <width>1111</width>
-      <height>661</height>
+      <width>1600</width>
+      <height>900</height>
      </rect>
     </property>
     <property name="sizePolicy">
-     <sizepolicy hsizetype="Maximum" vsizetype="Maximum">
+     <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
       <horstretch>0</horstretch>
       <verstretch>0</verstretch>
      </sizepolicy>
@@ -32,47 +32,73 @@
     <property name="currentIndex">
      <number>0</number>
     </property>
-    <widget class="QWidget" name="tab1">
+    <widget class="QWidget" name="tab_1">
      <attribute name="title">
       <string>Tab 1</string>
      </attribute>
-     <widget class="QPushButton" name="data_process_button">
+     <widget class="QPushButton" name="perplexity_button">
       <property name="geometry">
        <rect>
-        <x>50</x>
-        <y>60</y>
-        <width>171</width>
-        <height>41</height>
+        <x>1440</x>
+        <y>760</y>
+        <width>189</width>
+        <height>28</height>
        </rect>
       </property>
       <property name="text">
-       <string>数据预处理</string>
+       <string>困惑度曲线</string>
       </property>
      </widget>
      <widget class="QPushButton" name="lda_button">
       <property name="geometry">
        <rect>
-        <x>50</x>
-        <y>130</y>
-        <width>171</width>
-        <height>41</height>
+        <x>1210</x>
+        <y>760</y>
+        <width>189</width>
+        <height>28</height>
        </rect>
       </property>
       <property name="text">
        <string>LDA主题模型训练</string>
       </property>
      </widget>
-     <widget class="QPushButton" name="perplexity_button">
+     <widget class="QPushButton" name="data_process_button">
       <property name="geometry">
        <rect>
-        <x>50</x>
-        <y>190</y>
-        <width>171</width>
-        <height>41</height>
+        <x>980</x>
+        <y>760</y>
+        <width>189</width>
+        <height>28</height>
        </rect>
       </property>
       <property name="text">
-       <string>困惑度曲线</string>
+       <string>数据预处理</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label">
+      <property name="geometry">
+       <rect>
+        <x>20</x>
+        <y>30</y>
+        <width>891</width>
+        <height>781</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>LDA</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_2">
+      <property name="geometry">
+       <rect>
+        <x>930</x>
+        <y>30</y>
+        <width>631</width>
+        <height>701</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>困惑度</string>
       </property>
      </widget>
     </widget>
@@ -83,14 +109,27 @@
      <widget class="QPushButton" name="qiangdu_button">
       <property name="geometry">
        <rect>
-        <x>30</x>
-        <y>70</y>
+        <x>90</x>
+        <y>740</y>
         <width>171</width>
         <height>41</height>
        </rect>
       </property>
       <property name="text">
        <string>主题强度</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_3">
+      <property name="geometry">
+       <rect>
+        <x>100</x>
+        <y>80</y>
+        <width>1391</width>
+        <height>601</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>强度</string>
       </property>
      </widget>
     </widget>
@@ -101,9 +140,9 @@
      <widget class="QPushButton" name="cos_button">
       <property name="geometry">
        <rect>
-        <x>40</x>
-        <y>60</y>
-        <width>221</width>
+        <x>60</x>
+        <y>730</y>
+        <width>171</width>
         <height>41</height>
        </rect>
       </property>
@@ -119,10 +158,23 @@
      <widget class="QPushButton" name="sankey_button">
       <property name="geometry">
        <rect>
-        <x>100</x>
-        <y>110</y>
-        <width>93</width>
-        <height>28</height>
+        <x>240</x>
+        <y>740</y>
+        <width>121</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>桑基图</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_4">
+      <property name="geometry">
+       <rect>
+        <x>40</x>
+        <y>40</y>
+        <width>1501</width>
+        <height>651</height>
        </rect>
       </property>
       <property name="text">
@@ -137,7 +189,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>1114</width>
+     <width>1600</width>
      <height>26</height>
     </rect>
    </property>

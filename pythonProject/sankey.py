@@ -1,3 +1,8 @@
+# File: pythonProject/sankey
+# user: mcfly
+# IDE: PyCharm
+# Create Time: 2022/8/18 14:51
+
 import openpyxl
 import pandas
 from pyecharts.charts import  Sankey
@@ -36,7 +41,7 @@ def op_toExcel():  # openpyxl库储存数据到excel
     wb.save('BDP数据.xlsx')
 
 #定义桑基图节点
-def nodes():
+def nodes_():
     sheet = openpyxl.load_workbook('BDP数据.xlsx')
     sheet2 = []
     mySheet = sheet.get_sheet_by_name('Sheet')
@@ -54,12 +59,10 @@ def nodes():
         nodes.append(dic)
     return nodes
 
-op_toExcel()
-nodes = nodes()
-print(nodes)
+
 
 #定义桑基图关联关系
-def links():
+def links_():
     links = []
     sheet = pd.read_excel("BDP数据.xlsx", "Sheet")
     for row in sheet.index.values :
@@ -70,7 +73,7 @@ def links():
         print(dic)
         links.append(dic)
     return links
-links = links()
+
 
 #画出桑基图
 def huatu(nodes,links):
@@ -97,8 +100,14 @@ def huatu(nodes,links):
     )
     pic.render('桑基图.html')
 
-huatu(nodes,links)
+def sankey_diagram():
+    op_toExcel()
+    nodes = nodes_()
+    print(nodes)
+    links = links_()
+    huatu(nodes,links)
 
-
+if __name__ == '__main__':
+    sankey_diagram()
 
 

@@ -1,3 +1,7 @@
+# File: pythonProject/cos
+# user: mcfly
+# IDE: PyCharm
+# Create Time: 2022/8/18 10:00
 import math
 from nltk.stem import WordNetLemmatizer
 import pymysql
@@ -114,17 +118,16 @@ def compute_cosine(vec1, vec2):
     return result
 
 
-# 计算余弦相似度
-if __name__ == '__main__':
+# 计算余弦相似度 算n-1次
+def cos_similarity(user,pwd,db,tb,attr,yr1,yr2,yr3):
     user = 'root'
     pwd = 'Xy213592'
     db = 'patent_for_test'
     tb = "专利31000_test_2"
     attr = "时间"
-    yr3,yr4,yr1,yr2 = 2018,2019,2020,2021
+    yr3,yr1,yr2 = 2008,2009,2011
 
-    # statement1 = "SELECT * FROM `{0}` WHERE `{1}` <= {2}  ".format(tb,attr,yr3)
-    statement1 = "SELECT * FROM `{0}` WHERE `{1}` >= {2} AND `{1}` <= {3}".format(tb,attr,yr3,yr4)
+    statement1 = "SELECT * FROM `{0}` WHERE `{1}` <= {2}  ".format(tb,attr,yr3)
     statement2 = "SELECT * FROM `{0}` WHERE `{1}` >= {2} AND `{1}` <= {3}".format(tb,attr,yr1,yr2)
     #分词处理
     data1 = duqu1(user,pwd,db,statement1)
@@ -213,5 +216,4 @@ if __name__ == '__main__':
         xsdjz.append(hz)
     df = pd.DataFrame()
     df['topic_相似度'] = xsdjz
-    # FIXME 时间
-    df.to_excel("topic_cosine_lda_{0}_{1}.xlsx".format(yr4,yr2),index=False)
+    df.to_excel("topic_cosine_lda_2008_2011.xlsx",index=False)
