@@ -119,17 +119,17 @@ def compute_cosine(vec1, vec2):
 
 
 # 计算余弦相似度 算n-1次
-def cos_similarity(user,pwd,db,tb,attr,yr1,yr2,yr3):
-    user = 'root'
-    pwd = 'Xy213592'
-    db = 'patent_for_test'
-    tb = "专利31000_test_2"
-    attr = "时间"
-    yr3,yr1,yr2 = 2008,2009,2011
+def cos_similarity(user,pwd,db,statement1,statement2):
+    # user = 'root'
+    # pwd = 'Xy213592'
+    # db = 'patent_for_test'
+    # tb = "专利31000_test_2"
+    # attr = "时间"
+    # yr3,yr1,yr2 = 2008,2009,2011
     # TODO 划分时间窗，多线程进行
 
-    statement1 = "SELECT * FROM `{0}` WHERE `{1}` <= {2}  ".format(tb,attr,yr3)
-    statement2 = "SELECT * FROM `{0}` WHERE `{1}` >= {2} AND `{1}` <= {3}".format(tb,attr,yr1,yr2)
+    # statement1 = "SELECT * FROM `{0}` WHERE `{1}` <= {2}  ".format(tb,attr,yr3)
+    # statement2 = "SELECT * FROM `{0}` WHERE `{1}` >= {2} AND `{1}` <= {3}".format(tb,attr,yr1,yr2)
     #分词处理
     data1 = duqu1(user,pwd,db,statement1)
     data2 = duqu(user, pwd, db, statement2)

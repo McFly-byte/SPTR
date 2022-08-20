@@ -106,19 +106,10 @@ def print_top_words(model, feature_names, n_top_words):
     return tword
 
 
-def process_1(user,pwd,db,time_window):
+def process_1(user,pwd,db,time_window,n_topics,n_top_words,n_max_topics,n_t):
 # ### 1. 分词
-    # TODO 分词时怎么可以提前获取要进行的回合数？ （用来添加进度条）
-    # global total
-    # global current
-    # total = 0
-    # current = 0
-    # bar = prgs_bar.pyqtbar()  # 创建实例
-
     data = duqu1(user,pwd,db,time_window)
     data["content_cutted"] = data.ab.apply(englishfenci)
-    # bar.close()
-
 
 # ### 2. LDA模型
     # 把数据转换成lda所需要的数据
@@ -131,7 +122,8 @@ def process_1(user,pwd,db,time_window):
     tf = tf_vectorizer.fit_transform(data.content_cutted)
 
     # 定义主题的数量
-    n_topics = 30  # 这一步非常重要，是定义主题模型分析出来的主题数量，需要根据困惑度曲线来定义
+    # n_topics = 30  # 这一步非常重要，是定义主题模型分析出来的主题数量，需要根据困惑度曲线来定义
+    n_topics = int(n_topics)
     lda = LatentDirichletAllocation(n_components=n_topics, max_iter=50,
                                     learning_method='batch',
                                     learning_offset=150,
@@ -145,7 +137,8 @@ def process_1(user,pwd,db,time_window):
     # print(lda.components_)#主题-词矩阵
 
     # 每个主题对应词语
-    n_top_words = 30
+    # n_top_words = 30
+    n_top_words = int( n_top_words)
     tf_feature_names = tf_vectorizer.get_feature_names()
     topic_word = print_top_words(lda, tf_feature_names, n_top_words)
     df = pd.DataFrame()
@@ -165,7 +158,8 @@ def process_1(user,pwd,db,time_window):
 
 # ### 4. 困惑度曲线
     plexs = []
-    n_max_topics = 50
+    # n_max_topics = 50
+    n_max_topics = int( n_max_topics )
     for i in range(1, n_max_topics):
         print(i)
         lda = LatentDirichletAllocation(n_components=i, max_iter=50,
@@ -174,7 +168,7 @@ def process_1(user,pwd,db,time_window):
         lda.fit(tf)
         plexs.append(lda.perplexity(tf))
 
-    n_t = 49  # 区间最右侧的值。注意：不能大于n_max_topics
+    # n_t = 49  # 区间最右侧的值。注意：不能大于n_max_topics
     x = list(range(1, n_t))
     y = plexs[1:n_t]
 

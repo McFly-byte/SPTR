@@ -1181,11 +1181,14 @@
         <rect>
          <x>30</x>
          <y>220</y>
-         <width>160</width>
-         <height>80</height>
+         <width>154</width>
+         <height>271</height>
         </rect>
        </property>
        <layout class="QVBoxLayout" name="time_window_layout">
+        <property name="sizeConstraint">
+         <enum>QLayout::SetDefaultConstraint</enum>
+        </property>
         <item>
          <layout class="QHBoxLayout" name="horizontalLayout">
           <item>
@@ -1226,7 +1229,11 @@
            </spacer>
           </item>
           <item>
-           <widget class="QLineEdit" name="lineEdit_9"/>
+           <widget class="QLineEdit" name="lineEdit_9">
+            <property name="alignment">
+             <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignTop</set>
+            </property>
+           </widget>
           </item>
           <item>
            <spacer name="horizontalSpacer_61">
@@ -1246,6 +1253,9 @@
             <property name="text">
              <string>-</string>
             </property>
+            <property name="alignment">
+             <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignTop</set>
+            </property>
            </widget>
           </item>
           <item>
@@ -1262,7 +1272,11 @@
            </spacer>
           </item>
           <item>
-           <widget class="QLineEdit" name="lineEdit_8"/>
+           <widget class="QLineEdit" name="lineEdit_8">
+            <property name="alignment">
+             <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignTop</set>
+            </property>
+           </widget>
           </item>
           <item>
            <spacer name="horizontalSpacer_63">

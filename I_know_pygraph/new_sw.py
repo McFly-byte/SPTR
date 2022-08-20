@@ -681,3 +681,5 @@ class Ui_MainWindow(object):
                 self.pwd_ledt.clear()
                 self.db_ledt.clear()
                 self.tb_ledt.close()
+
+    def get_paras(self):
