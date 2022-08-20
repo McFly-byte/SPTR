@@ -18,6 +18,8 @@ if __name__ == '__main__':
 # DONE_TODO 分栏
 # DONE_TODO 外参传递
 # TODO　把主题强度图整到软件里
-# TODO 多线程跑余弦相似度
+# DONE_TODO 多线程跑余弦相似度
 # TODO 美化
+# TODO 加载中
+# TODO 封装
 # TODO 写申请书
