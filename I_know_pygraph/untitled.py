@@ -9,29 +9,58 @@
 
 
 from PyQt5 import QtCore, QtGui, QtWidgets
-from PyQt5.QtWidgets import QHBoxLayout, QLabel, QLineEdit, QToolButton
+from PyQt5.QtCore import QBasicTimer
 
+from PyQt5.QtWidgets import *
+
+
+class ProgressBar(QWidget):
+    def __init__(self, parent=None):
+        super.__init__()
+        self.setWindowTitle("进度条")
+        self.setGeometry(0, 0, 1600, 900)
+        self.pbar = QProgressBar(self)
+        self.pbar.setGeometry(50, 50, 200, 25)
+
+
+        # self.button = QtWidgets.QPushButton('Start', self)
+        # # self.button.setFocusPolicy(Qt.NoFocus)
+        # self.button.move(40, 80)
+        #
+        # self.button.clicked.connect(self.onStart)
+        self.timer = QBasicTimer()
+        self.step = 0
+        # self.onStart()
+
+    def timerEvent(self, event):
+        if self.step >= 100:
+            self.step = 0
+        self.step = self.step + 1
+        self.pbar.setValue(self.step)
+
+    def onStart(self):
+        self.timer.start(10, self)
+            # self.button.setText('Stop')
+
+    def onStop(self):
+        self.timer.stop()
 
 class Ui_MainWindow(object):
-
     def setupUi(self, MainWindow):
         MainWindow.setObjectName("MainWindow")
         MainWindow.resize(800, 600)
         self.centralwidget = QtWidgets.QWidget(MainWindow)
         self.centralwidget.setObjectName("centralwidget")
-        self.groupBox = QtWidgets.QGroupBox(self.centralwidget)
-        self.groupBox.setGeometry(QtCore.QRect(190, 90, 271, 301))
-        self.groupBox.setObjectName("groupBox")
-        self.verticalLayoutWidget = QtWidgets.QWidget(self.groupBox)
-        self.verticalLayoutWidget.setGeometry(QtCore.QRect(60, 80, 160, 80))
-        self.verticalLayoutWidget.setObjectName("verticalLayoutWidget")
-        self.YanshisLayout = QtWidgets.QVBoxLayout(self.verticalLayoutWidget)
-        self.YanshisLayout.setContentsMargins(0, 0, 0, 0)
-        self.YanshisLayout.setObjectName("YanshisLayout")
+
         self.pushButton = QtWidgets.QPushButton(self.centralwidget)
-        self.pushButton.setGeometry(QtCore.QRect(510, 190, 93, 28))
+        self.pushButton.setGeometry(QtCore.QRect(160, 180, 93, 28))
         self.pushButton.setObjectName("pushButton")
         MainWindow.setCentralWidget(self.centralwidget)
+
+        self.pushButton.clicked.connect(self.doAction)
+
+
+
         self.menubar = QtWidgets.QMenuBar(MainWindow)
         self.menubar.setGeometry(QtCore.QRect(0, 0, 800, 26))
         self.menubar.setObjectName("menubar")
@@ -43,29 +72,19 @@ class Ui_MainWindow(object):
         self.retranslateUi(MainWindow)
         QtCore.QMetaObject.connectSlotsByName(MainWindow)
 
-        self.pushButton.clicked.connect(self.Yanshis_add)
-        # # 初始化全局命名空间
-        self.names = globals()
-        # # 获取YanshiLayout中子Layout的数量
-        # self.count = self.YanshisLayout.count()
+    def doAction(self ):
+        self.pgb = ProgressBar(None)
+        self.pgb.show()
+        # self.pgb.exec_()
+        self.pgb.onStart()
+        # func
+        for i in range( 1000000 ):
+            print( i )
 
-        # # 新建一个水平布局的子Layout
-        # self.names["Yanshi_layout_{}".format(self.count + 1)] = QHBoxLayout(self)
-        #
-        # # 将新建的Layout添加到UI已有YanshiLayout中
-        # self.YanshisLayout.addLayout(self.names["Yanshi_layout_{}".format(self.count + 1)])
-
-    def Yanshis_add(self):
-        # names = globals()
-        count = self.YanshisLayout.count()
-        # 在新建的Layout中动态地添加控件
-        self.names["Yanshi_label_{}".format(count + 1)] = QLabel("Yanshi{}:".format(count + 1))
-        self.names["Yanshi_label_{}".format(count + 1)].setText( "Yanshi_label_{}".format(count + 1))
-        self.names["Yanshi_lineEdit_{}".format(count + 1)] = QLineEdit(self)
-        self.names["Yanshi_Button_{}".format(count + 1)] = QToolButton(self)
+        self.pgb.onStop()
+        self.pgb.close()
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
         MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
-        self.groupBox.setTitle(_translate("MainWindow", "GroupBox"))
-        self.pushButton.setText(_translate("MainWindow", "PushButton"))
+        self.pushButton.setText(_translate("MainWindow", "开始"))

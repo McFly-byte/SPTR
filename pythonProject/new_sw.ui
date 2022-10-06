@@ -7,11 +7,11 @@
     <x>0</x>
     <y>0</y>
     <width>1600</width>
-    <height>898</height>
+    <height>914</height>
    </rect>
   </property>
   <property name="windowTitle">
-   <string>MainWindow</string>
+   <string>可视化分析</string>
   </property>
   <widget class="QWidget" name="centralwidget">
    <widget class="QTabWidget" name="tabWidget">
@@ -30,30 +30,17 @@
      </sizepolicy>
     </property>
     <property name="currentIndex">
-     <number>0</number>
+     <number>4</number>
     </property>
     <widget class="QWidget" name="tab_0">
      <attribute name="title">
-      <string>页</string>
+      <string>Tab 0</string>
      </attribute>
-     <widget class="QPushButton" name="data_process_button">
+     <widget class="QPushButton" name="connect_button">
       <property name="geometry">
        <rect>
-        <x>500</x>
-        <y>670</y>
-        <width>189</width>
-        <height>28</height>
-       </rect>
-      </property>
-      <property name="text">
-       <string>数据预处理</string>
-      </property>
-     </widget>
-     <widget class="QPushButton" name="pushButton">
-      <property name="geometry">
-       <rect>
-        <x>140</x>
-        <y>330</y>
+        <x>720</x>
+        <y>470</y>
         <width>93</width>
         <height>28</height>
        </rect>
@@ -65,8 +52,8 @@
      <widget class="QWidget" name="verticalLayoutWidget_2">
       <property name="geometry">
        <rect>
-        <x>50</x>
-        <y>50</y>
+        <x>620</x>
+        <y>150</y>
         <width>281</width>
         <height>251</height>
        </rect>
@@ -286,13 +273,57 @@
        </item>
       </layout>
      </widget>
+    </widget>
+    <widget class="QWidget" name="tab_1">
+     <attribute name="title">
+      <string>Tab 1</string>
+     </attribute>
+     <widget class="QPushButton" name="perplexity_button">
+      <property name="geometry">
+       <rect>
+        <x>1340</x>
+        <y>730</y>
+        <width>189</width>
+        <height>28</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>困惑度曲线</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label">
+      <property name="geometry">
+       <rect>
+        <x>30</x>
+        <y>30</y>
+        <width>861</width>
+        <height>551</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>LDA</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_2">
+      <property name="geometry">
+       <rect>
+        <x>930</x>
+        <y>30</y>
+        <width>631</width>
+        <height>611</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>困惑度</string>
+      </property>
+     </widget>
      <widget class="QGroupBox" name="group_lda">
       <property name="geometry">
        <rect>
-        <x>440</x>
-        <y>30</y>
-        <width>351</width>
-        <height>331</height>
+        <x>100</x>
+        <y>610</y>
+        <width>731</width>
+        <height>171</height>
        </rect>
       </property>
       <property name="title">
@@ -304,7 +335,7 @@
          <x>30</x>
          <y>30</y>
          <width>291</width>
-         <height>271</height>
+         <height>91</height>
         </rect>
        </property>
        <layout class="QVBoxLayout" name="verticalLayout_3">
@@ -414,10 +445,22 @@
           </item>
          </layout>
         </item>
+       </layout>
+      </widget>
+      <widget class="QWidget" name="verticalLayoutWidget_6">
+       <property name="geometry">
+        <rect>
+         <x>390</x>
+         <y>20</y>
+         <width>321</width>
+         <height>131</height>
+        </rect>
+       </property>
+       <layout class="QVBoxLayout" name="verticalLayout_6">
         <item>
-         <layout class="QHBoxLayout" name="horizontalLayout_11">
+         <layout class="QHBoxLayout" name="horizontalLayout_23">
           <item>
-           <spacer name="horizontalSpacer_19">
+           <spacer name="horizontalSpacer_69">
             <property name="orientation">
              <enum>Qt::Horizontal</enum>
             </property>
@@ -430,14 +473,14 @@
            </spacer>
           </item>
           <item>
-           <widget class="QLabel" name="lda_attr_lbl">
+           <widget class="QLabel" name="lda_attr_lbl_2">
             <property name="text">
              <string>attr</string>
             </property>
            </widget>
           </item>
           <item>
-           <spacer name="horizontalSpacer_20">
+           <spacer name="horizontalSpacer_70">
             <property name="orientation">
              <enum>Qt::Horizontal</enum>
             </property>
@@ -450,27 +493,14 @@
            </spacer>
           </item>
           <item>
-           <widget class="QLineEdit" name="lda_attr_ledt"/>
-          </item>
-          <item>
-           <spacer name="horizontalSpacer_21">
-            <property name="orientation">
-             <enum>Qt::Horizontal</enum>
-            </property>
-            <property name="sizeHint" stdset="0">
-             <size>
-              <width>40</width>
-              <height>20</height>
-             </size>
-            </property>
-           </spacer>
+           <widget class="QLineEdit" name="lda_attr_ledt_2"/>
           </item>
          </layout>
         </item>
         <item>
-         <layout class="QHBoxLayout" name="horizontalLayout_12">
+         <layout class="QHBoxLayout" name="horizontalLayout_24">
           <item>
-           <spacer name="horizontalSpacer_22">
+           <spacer name="horizontalSpacer_72">
             <property name="orientation">
              <enum>Qt::Horizontal</enum>
             </property>
@@ -483,14 +513,14 @@
            </spacer>
           </item>
           <item>
-           <widget class="QLabel" name="lda_n_topics_lbl">
+           <widget class="QLabel" name="lda_n_topics_lbl_2">
             <property name="text">
              <string>n_topics</string>
             </property>
            </widget>
           </item>
           <item>
-           <spacer name="horizontalSpacer_23">
+           <spacer name="horizontalSpacer_73">
             <property name="orientation">
              <enum>Qt::Horizontal</enum>
             </property>
@@ -503,27 +533,14 @@
            </spacer>
           </item>
           <item>
-           <widget class="QLineEdit" name="lda_n_topics_ledt"/>
-          </item>
-          <item>
-           <spacer name="horizontalSpacer_24">
-            <property name="orientation">
-             <enum>Qt::Horizontal</enum>
-            </property>
-            <property name="sizeHint" stdset="0">
-             <size>
-              <width>40</width>
-              <height>20</height>
-             </size>
-            </property>
-           </spacer>
+           <widget class="QLineEdit" name="lda_n_topics_ledt_2"/>
           </item>
          </layout>
         </item>
         <item>
-         <layout class="QHBoxLayout" name="horizontalLayout_13">
+         <layout class="QHBoxLayout" name="horizontalLayout_25">
           <item>
-           <spacer name="horizontalSpacer_25">
+           <spacer name="horizontalSpacer_75">
             <property name="orientation">
              <enum>Qt::Horizontal</enum>
             </property>
@@ -536,14 +553,14 @@
            </spacer>
           </item>
           <item>
-           <widget class="QLabel" name="lda_n_top_words_lbl">
+           <widget class="QLabel" name="lda_n_top_words_lbl_2">
             <property name="text">
              <string>n_top_words</string>
             </property>
            </widget>
           </item>
           <item>
-           <spacer name="horizontalSpacer_26">
+           <spacer name="horizontalSpacer_76">
             <property name="orientation">
              <enum>Qt::Horizontal</enum>
             </property>
@@ -556,31 +573,31 @@
            </spacer>
           </item>
           <item>
-           <widget class="QLineEdit" name="lda_n_top_words_ledt"/>
-          </item>
-          <item>
-           <spacer name="horizontalSpacer_27">
-            <property name="orientation">
-             <enum>Qt::Horizontal</enum>
-            </property>
-            <property name="sizeHint" stdset="0">
-             <size>
-              <width>40</width>
-              <height>20</height>
-             </size>
-            </property>
-           </spacer>
+           <widget class="QLineEdit" name="lda_n_top_words_ledt_2"/>
           </item>
          </layout>
         </item>
        </layout>
       </widget>
      </widget>
+     <widget class="QPushButton" name="lda_button">
+      <property name="geometry">
+       <rect>
+        <x>1340</x>
+        <y>680</y>
+        <width>189</width>
+        <height>28</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>LDA主题模型训练</string>
+      </property>
+     </widget>
      <widget class="QGroupBox" name="group_lda_2">
       <property name="geometry">
        <rect>
-        <x>440</x>
-        <y>390</y>
+        <x>930</x>
+        <y>680</y>
         <width>351</width>
         <height>101</height>
        </rect>
@@ -650,13 +667,57 @@
        </layout>
       </widget>
      </widget>
+     <widget class="QPushButton" name="data_process_button">
+      <property name="geometry">
+       <rect>
+        <x>1340</x>
+        <y>630</y>
+        <width>189</width>
+        <height>28</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>数据预处理</string>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="tab_2">
+     <attribute name="title">
+      <string>Tab 2</string>
+     </attribute>
+     <widget class="QPushButton" name="qiangdu_button">
+      <property name="geometry">
+       <rect>
+        <x>1130</x>
+        <y>520</y>
+        <width>171</width>
+        <height>41</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>主题强度</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_3">
+      <property name="geometry">
+       <rect>
+        <x>100</x>
+        <y>80</y>
+        <width>881</width>
+        <height>661</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>强度</string>
+      </property>
+     </widget>
      <widget class="QGroupBox" name="group_lda_3">
       <property name="geometry">
        <rect>
-        <x>820</x>
-        <y>30</y>
-        <width>351</width>
-        <height>381</height>
+        <x>1080</x>
+        <y>50</y>
+        <width>381</width>
+        <height>431</height>
        </rect>
       </property>
       <property name="title">
@@ -667,8 +728,8 @@
         <rect>
          <x>30</x>
          <y>30</y>
-         <width>291</width>
-         <height>321</height>
+         <width>321</width>
+         <height>381</height>
         </rect>
        </property>
        <layout class="QVBoxLayout" name="verticalLayout_4">
@@ -993,13 +1054,31 @@
        </layout>
       </widget>
      </widget>
+    </widget>
+    <widget class="QWidget" name="tab_3">
+     <attribute name="title">
+      <string>Tab 3</string>
+     </attribute>
+     <widget class="QPushButton" name="cos_button">
+      <property name="geometry">
+       <rect>
+        <x>670</x>
+        <y>710</y>
+        <width>171</width>
+        <height>41</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>主题余弦相似度</string>
+      </property>
+     </widget>
      <widget class="QGroupBox" name="group_lda_4">
       <property name="geometry">
        <rect>
-        <x>1200</x>
-        <y>40</y>
-        <width>351</width>
-        <height>711</height>
+        <x>130</x>
+        <y>50</y>
+        <width>461</width>
+        <height>661</height>
        </rect>
       </property>
       <property name="title">
@@ -1008,10 +1087,10 @@
       <widget class="QWidget" name="verticalLayoutWidget_5">
        <property name="geometry">
         <rect>
-         <x>30</x>
-         <y>30</y>
-         <width>291</width>
-         <height>161</height>
+         <x>40</x>
+         <y>40</y>
+         <width>341</width>
+         <height>171</height>
         </rect>
        </property>
        <layout class="QVBoxLayout" name="verticalLayout_5">
@@ -1053,19 +1132,6 @@
           <item>
            <widget class="QLineEdit" name="cos_attr_ledt"/>
           </item>
-          <item>
-           <spacer name="horizontalSpacer_54">
-            <property name="orientation">
-             <enum>Qt::Horizontal</enum>
-            </property>
-            <property name="sizeHint" stdset="0">
-             <size>
-              <width>40</width>
-              <height>20</height>
-             </size>
-            </property>
-           </spacer>
-          </item>
          </layout>
         </item>
         <item>
@@ -1105,19 +1171,6 @@
           </item>
           <item>
            <widget class="QLineEdit" name="cos_n_topics_1_ledt"/>
-          </item>
-          <item>
-           <spacer name="horizontalSpacer_57">
-            <property name="orientation">
-             <enum>Qt::Horizontal</enum>
-            </property>
-            <property name="sizeHint" stdset="0">
-             <size>
-              <width>40</width>
-              <height>20</height>
-             </size>
-            </property>
-           </spacer>
           </item>
          </layout>
         </item>
@@ -1159,19 +1212,6 @@
           <item>
            <widget class="QLineEdit" name="cos_n_topics_2_ledt"/>
           </item>
-          <item>
-           <spacer name="horizontalSpacer_60">
-            <property name="orientation">
-             <enum>Qt::Horizontal</enum>
-            </property>
-            <property name="sizeHint" stdset="0">
-             <size>
-              <width>40</width>
-              <height>20</height>
-             </size>
-            </property>
-           </spacer>
-          </item>
          </layout>
         </item>
        </layout>
@@ -1180,7 +1220,7 @@
        <property name="geometry">
         <rect>
          <x>30</x>
-         <y>220</y>
+         <y>260</y>
          <width>154</width>
          <height>271</height>
         </rect>
@@ -1298,8 +1338,8 @@
       <widget class="QPushButton" name="add_button">
        <property name="geometry">
         <rect>
-         <x>200</x>
-         <y>270</y>
+         <x>240</x>
+         <y>370</y>
          <width>21</width>
          <height>21</height>
         </rect>
@@ -1310,115 +1350,9 @@
       </widget>
      </widget>
     </widget>
-    <widget class="QWidget" name="tab_1">
-     <attribute name="title">
-      <string>Tab 1</string>
-     </attribute>
-     <widget class="QPushButton" name="perplexity_button">
-      <property name="geometry">
-       <rect>
-        <x>1270</x>
-        <y>740</y>
-        <width>189</width>
-        <height>28</height>
-       </rect>
-      </property>
-      <property name="text">
-       <string>困惑度曲线</string>
-      </property>
-     </widget>
-     <widget class="QPushButton" name="lda_button">
-      <property name="geometry">
-       <rect>
-        <x>1030</x>
-        <y>740</y>
-        <width>189</width>
-        <height>28</height>
-       </rect>
-      </property>
-      <property name="text">
-       <string>LDA主题模型训练</string>
-      </property>
-     </widget>
-     <widget class="QLabel" name="label">
-      <property name="geometry">
-       <rect>
-        <x>20</x>
-        <y>30</y>
-        <width>891</width>
-        <height>781</height>
-       </rect>
-      </property>
-      <property name="text">
-       <string>LDA</string>
-      </property>
-     </widget>
-     <widget class="QLabel" name="label_2">
-      <property name="geometry">
-       <rect>
-        <x>930</x>
-        <y>30</y>
-        <width>631</width>
-        <height>701</height>
-       </rect>
-      </property>
-      <property name="text">
-       <string>困惑度</string>
-      </property>
-     </widget>
-    </widget>
-    <widget class="QWidget" name="tab_2">
-     <attribute name="title">
-      <string>Tab 2</string>
-     </attribute>
-     <widget class="QPushButton" name="qiangdu_button">
-      <property name="geometry">
-       <rect>
-        <x>90</x>
-        <y>740</y>
-        <width>171</width>
-        <height>41</height>
-       </rect>
-      </property>
-      <property name="text">
-       <string>主题强度</string>
-      </property>
-     </widget>
-     <widget class="QLabel" name="label_3">
-      <property name="geometry">
-       <rect>
-        <x>100</x>
-        <y>80</y>
-        <width>1391</width>
-        <height>601</height>
-       </rect>
-      </property>
-      <property name="text">
-       <string>强度</string>
-      </property>
-     </widget>
-    </widget>
-    <widget class="QWidget" name="tab_3">
-     <attribute name="title">
-      <string>页</string>
-     </attribute>
-     <widget class="QPushButton" name="cos_button">
-      <property name="geometry">
-       <rect>
-        <x>60</x>
-        <y>730</y>
-        <width>171</width>
-        <height>41</height>
-       </rect>
-      </property>
-      <property name="text">
-       <string>主题余弦相似度</string>
-      </property>
-     </widget>
-    </widget>
     <widget class="QWidget" name="tab_4">
      <attribute name="title">
-      <string>页</string>
+      <string>Tab 4</string>
      </attribute>
      <widget class="QPushButton" name="sankey_button">
       <property name="geometry">

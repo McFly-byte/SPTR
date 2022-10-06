@@ -163,6 +163,7 @@ from pylab import *
 
 def plot(zqd):
     print( "plot")
+    print( zqd )
     nianfen = []
     for i in range(0, 22, 2):
         a = i + 2000

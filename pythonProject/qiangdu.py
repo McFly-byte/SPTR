@@ -14,7 +14,6 @@ from nltk.corpus import stopwords
 import re
 
 
-# TODO 处理完LDA和困惑度曲线再来看
 
 def duqu1(user,pwd,db,statement):
     # conn = pymysql.connect(host='localhost', port=3306, user='root', password='Xy213592', db='patent_for_test')
@@ -164,7 +163,7 @@ def zjz(juzhen,usr,pwd,db,tb,attr,year1,year2,dur):  # TODO 加参数 同shuzi()
 
 from pylab import *
 
-
+"""
 def plot(zqd):
     nianfen = []
     for i in range(0, 22, 2):
@@ -214,6 +213,7 @@ def plot(zqd):
     plt.xlabel('year')
     plt.ylabel('Intensity of theme')
     plt.savefig('图/人脸识别/强度图/上升.png')
+"""
 
 def process_2(usr,pwd,db,tb,attr,year1,year2,dur,year3,year4,n_topics):
     # cur.execute("SELECT * FROM `专利31000_for_test` WHERE `时间` >= 2000 AND `时间` <= 2021 ORDER BY `时间`  ")  # 多少条记录
@@ -241,18 +241,8 @@ def process_2(usr,pwd,db,tb,attr,year1,year2,dur,year3,year4,n_topics):
     zqd = zjz(docres,usr,pwd,db,tb,attr,year1,year2,dur)
     print("zqd: ")
     print(zqd)
-    plot(zqd)
+    return zqd
 
-if __name__ == '__main__':
-    user = 'root'
-    pwd = 'Xy213592'
-    db = 'patent_for_test'
-    tb = "专利31000_for_test"
-    attr = "时间"
-    year1, year2, year3, year4 = 2000,2022,2000,2021
-    dur = 2
-    n_topics = 27
-    process_2(user,pwd,db,tb,attr,year1,year2,dur,year3,year4,n_topics)
 
 
 
